@@ -22,10 +22,6 @@ e78fb92e-95e0-4267-8bcc-fed6e20106f1,CSV Steesel,2023-04-01T10:53:03.561Z,e19471
 49b7e7e2-7323-4557-90b7-9af6e4197cbf,CSV - Esch/Alzette,2023-03-08T16:42:48.781Z,b85b1563-4488-446c-8c83-c71780fd88b0,CSV,Luxembourg,lu,281560318537227,CSV - Esch/Alzette,Facebook
 8581aa0b-f7b9-47b7-aaea-3a0781740388,DP - Wooltz,2023-03-23T10:53:22.587Z,c0ae14ba-ab58-474a-aa12-c66b31bd952e,DP,Luxembourg,lu,276012702902065,DP - Wooltz,Facebook
 4a834c2b-c69e-466d-a97f-2834a604ea7d,LSAP Walfer,2023-03-28T10:53:17.413Z,908eae02-09f4-4efa-99d3-5cc1ac06d650,LSAP,Luxembourg,lu,776581645789525,LSAP Walfer,Facebook
-7bbd0fae-b54c-43cf-825c-a0db1ada86b5,déi gréng Käerjeng,2023-03-26T10:53:07.166Z,da5d8034-72a7-423e-bbe2-5c91f96f89f2,GRENG,Luxembourg,lu,181523471980241,déi gréng Käerjeng,Facebook
-f1c11c4e-93af-4ab6-8b36-f9fd0e5a8337,déi gréng Suessem,2023-03-17T10:53:35.909Z,3182b6e1-95ec-4652-932b-cc61e1079d9a,GRENG,Luxembourg,lu,107363015618822,déi gréng Suessem,Facebook
-f5820439-9d8d-4d25-a283-c0788e30090e,déi gréng Péiteng,2023-03-12T10:53:24.684Z,2590ae54-1b51-40fd-a44e-df84185aa964,GRENG,Luxembourg,lu,159717574098864,déi gréng Péiteng,Facebook
-65068c1a-fc94-4d85-9bad-01b7b0aa3108,Charles Margue,2023-03-08T18:39:40.443Z,05993856-7828-4259-a38e-c4334c178538,GRENG,Luxembourg,lu,106283332017576,Charles Margue,Facebook
 0106b67a-4786-409d-98a7-504ed158b846,,2023-03-28T10:53:17.396Z,e3dec43c-522e-4c77-a79f-849dd130ac2f,GRENG,Luxembourg,lu,108191818419446,,Facebook
 f020a19c-559d-486c-b04d-d4f862c3be34,déi jonk gréng,2023-03-18T10:53:16.344Z,b3d53d15-c5bc-446d-a0fe-1db45dfc5d3e,GRENG,Luxembourg,lu,197451906960613,déi jonk gréng,Facebook
 9cf2c1f0-436b-4061-885c-bc28dfcbf601,Marc Hansen,2023-03-12T10:53:24.664Z,32362938-498b-436f-bc07-2ece50812f95,GRENG,Luxembourg,lu,115829716988274,Marc Hansen,Facebook
@@ -34,47 +30,51 @@ c0025074-1d90-458c-8186-f0dcd0bc3c90,François Benoy,2023-03-08T16:32:36.363Z,3a
 97ed3165-b092-4ac3-81cd-8cb09769cd54,ADR Esch-Uelzecht,2023-03-08T10:53:25.414Z,13fd76f9-2e61-4c66-b3f3-54bf80664d5a,ADR,Luxembourg,lu,101304338120071,ADR Esch-Uelzecht,Facebook
 07d597c4-4789-4605-b621-657be2017268,déi gréng Norden,2023-02-25T10:53:33.447Z,cc97f6c5-20f5-41f6-a74d-1598a53448a3,GRENG,Luxembourg,lu,1010392258988689,déi gréng Norden,Facebook
 fd82dfca-e78e-41b7-9f00-d4c652a04d0f,ADR Zentrum,2023-04-10T10:52:45.933Z,f382eaa8-9140-4d0e-b077-55a0095becd4,ADR,Luxembourg,lu,106515312353204,ADR Zentrum,Facebook
+5b553171-32a7-4cf1-861e-0644e984bb0b,Déi Lénk  Miersch,2023-03-08T19:22:18.435Z,67f3fe40-7aad-4805-aef3-98e0277b53d7,LENK,Luxembourg,lu,101681831958111,Déi Lénk  Miersch,Facebook
+7bbd0fae-b54c-43cf-825c-a0db1ada86b5,déi gréng Käerjeng,2023-03-26T10:53:07.166Z,da5d8034-72a7-423e-bbe2-5c91f96f89f2,GRENG,Luxembourg,lu,181523471980241,déi gréng Käerjeng,Facebook
+f1c11c4e-93af-4ab6-8b36-f9fd0e5a8337,déi gréng Suessem,2023-03-17T10:53:35.909Z,3182b6e1-95ec-4652-932b-cc61e1079d9a,GRENG,Luxembourg,lu,107363015618822,déi gréng Suessem,Facebook
+f5820439-9d8d-4d25-a283-c0788e30090e,déi gréng Péiteng,2023-03-12T10:53:24.684Z,2590ae54-1b51-40fd-a44e-df84185aa964,GRENG,Luxembourg,lu,159717574098864,déi gréng Péiteng,Facebook
+65068c1a-fc94-4d85-9bad-01b7b0aa3108,Charles Margue,2023-03-08T18:39:40.443Z,05993856-7828-4259-a38e-c4334c178538,GRENG,Luxembourg,lu,106283332017576,Charles Margue,Facebook
 eed88a08-9b3b-4e2b-8a14-0b863b961664,déi gréng Hesper,2023-03-08T15:41:50.366Z,67fea049-3748-4d5a-9d70-95ba647d992e,GRENG,Luxembourg,lu,197485396928184,déi gréng Hesper,Facebook
 0770422b-e29d-4818-b42e-20c861cd5951,ADR Sektioun Suessem,2023-03-08T10:53:25.414Z,68ef0e10-3c75-4c38-ba75-27ed36c7320b,ADR,Luxembourg,lu,108179237308495,ADR Sektioun Suessem,Facebook
-5b553171-32a7-4cf1-861e-0644e984bb0b,Déi Lénk  Miersch,2023-03-08T19:22:18.435Z,67f3fe40-7aad-4805-aef3-98e0277b53d7,LENK,Luxembourg,lu,101681831958111,Déi Lénk  Miersch,Facebook
-1d4fa232-ee91-4cbf-be67-baba9b47eb42,déi Lénk Esch,2023-02-19T10:53:42.405Z,8401601b-fc35-4897-813c-b2e092cf83d2,LENK,Luxembourg,lu,156350157761750,déi Lénk Esch,Facebook
 88dcba60-ac3b-42c8-8f23-1c9553c97f84,Tilly Metz,2023-03-17T10:53:35.897Z,064110a0-610c-4591-b704-e5393d03136f,GRENG,Luxembourg,lu,187568708819712,Tilly Metz,Facebook
+1d4fa232-ee91-4cbf-be67-baba9b47eb42,déi Lénk Esch,2023-02-19T10:53:42.405Z,8401601b-fc35-4897-813c-b2e092cf83d2,LENK,Luxembourg,lu,156350157761750,déi Lénk Esch,Facebook
 01ba9c33-d80f-4c92-a567-e9b98d467e1a,Ministère du Logement,2023-03-20T10:53:13.449Z,8be33cc6-969a-4450-ba92-2bb1f4a1fed5,GOV,Luxembourg,lu,228954330894550,Ministère du Logement,Facebook
+58d24855-a3af-4d8c-89ca-62761969c4ed,Ministère de la Protection des consommateurs,2023-02-19T10:53:42.396Z,73f28965-edc0-453b-88fc-cdb3048ec601,GOV,Luxembourg,lu,106781054009320,Ministère de la Protection des consommateurs,Facebook
 1bebcb98-c2d7-42ff-aeeb-a5877aa8c5d7,"Ministère de la Famille, de l'Intégration et à la Grande Région",2023-03-08T10:53:25.392Z,82229f17-41c7-456f-977e-cbd90d2d05b5,GOV,Luxembourg,lu,709331653192158,"Ministère de la Famille, de l'Intégration et à la Grande Région",Facebook
 901dd59f-4baa-45de-a309-0bd7563b8a7c,Tommy Klein,2023-10-08T05:07:18.631Z,63126e31-12f6-46f8-86ae-77642af5107b,PIR,Luxembourg,lu,121202234230955,Tommy Klein,Facebook
-58d24855-a3af-4d8c-89ca-62761969c4ed,Ministère de la Protection des consommateurs,2023-02-19T10:53:42.396Z,73f28965-edc0-453b-88fc-cdb3048ec601,GOV,Luxembourg,lu,106781054009320,Ministère de la Protection des consommateurs,Facebook
 c48f9709-14a8-477d-a456-b30fe5561fa2,Meris Šehović,2023-02-15T10:53:19.590Z,af5549d3-fb7f-4248-bad3-ad95c266415a,GRENG,Luxembourg,lu,110820380709802,Meris Šehović,Facebook
-7e912703-38c5-4200-90ad-bf4b85b583ca,Mischel Sylvie,2023-10-08T05:07:18.630Z,e150d04b-e9d1-41a7-a0c2-7e9b2ed5197a,ADR,Luxembourg,lu,155913575037227,Mischel Sylvie,Facebook
 acfed160-64b3-4881-9b94-aaaf5c3131e8,Luc Reyter,2023-10-06T05:07:20.017Z,7c5d446a-6445-4ea0-854f-f277ad3242f8,ADR,Luxembourg,lu,105006876035279,Luc Reyter,Facebook
+7e912703-38c5-4200-90ad-bf4b85b583ca,Mischel Sylvie,2023-10-08T05:07:18.630Z,e150d04b-e9d1-41a7-a0c2-7e9b2ed5197a,ADR,Luxembourg,lu,155913575037227,Mischel Sylvie,Facebook
 847b19fa-198a-4258-ab51-dca51e6ee2b8,CSV Norden,2023-10-01T05:07:07.917Z,c55e890f-1bf0-4e21-94b1-62c025bc508a,CSV,Luxembourg,lu,485525174850412,CSV Norden,Facebook
 8239119d-024b-40ef-ab89-d31b8f6f6fb7,Xavier Bettel,2023-10-05T05:08:05.486Z,0162ee0a-bf86-4658-9b0f-9b9733f58bda,DP,Luxembourg,lu,76714151717,Xavier Bettel,Facebook
-46a2bc2f-de65-4bbc-94fc-ddac0ac9f105,Steven Curfs Piraten Monnerech,2023-09-25T05:07:00.704Z,b9d7dbb8-fa4e-4e39-ba3c-625f9ede6ae7,PIR,Luxembourg,lu,120395911163770,Steven Curfs Piraten Monnerech,Facebook
 fd7c69a0-583b-4014-9e70-555bee684202,Ministère de la Digitalisation Luxembourg,2023-10-03T05:06:54.074Z,5cf6cb5e-471c-4fb3-b1c1-02056a5eeb77,GOV,Luxembourg,lu,124731255890895,Ministère de la Digitalisation Luxembourg,Facebook
 a275b68a-8211-47c6-874a-5b7adf3f1dc9,Michel Wolter,2023-08-31T06:13:57.228Z,0933bb86-baa2-4139-a079-b0cf6ff10b7c,CSV,Luxembourg,lu,115195261640708,Michel Wolter,Facebook
-e3a9a67f-2bdd-41ea-bfa1-456ffe239207,Stéphanie Empain,2023-09-25T05:07:00.703Z,6518a389-4848-4ff9-aed9-e9b5ac423991,GRENG,Luxembourg,lu,313294426192409,Stéphanie Empain,Facebook
-b7ef0602-fe52-41c1-a703-6b74132d5816,Partei,2023-10-05T05:08:05.606Z,a9bec475-af3c-46a1-90ba-00d035b44c12,OTHER,Luxembourg,lu,107063500775615,Partei,Facebook
+46a2bc2f-de65-4bbc-94fc-ddac0ac9f105,Steven Curfs Piraten Monnerech,2023-09-25T05:07:00.704Z,b9d7dbb8-fa4e-4e39-ba3c-625f9ede6ae7,PIR,Luxembourg,lu,120395911163770,Steven Curfs Piraten Monnerech,Facebook
 ac3ecc65-5419-4963-84fe-616e7a6d0d54,Fokus Suessem,2023-07-13T12:37:48.799Z,cb74ddb4-02f8-42ef-8846-4ecb1f42c90f,OTHER,Luxembourg,lu,103202786010927,Fokus Suessem,Facebook
-8b32efee-3c66-4e85-b209-c966d6095ecc,Piraten Gemeng Déifferdeng,2023-03-07T10:53:26.094Z,59bea863-171e-4e6a-b356-dc88ca971772,PIR,Luxembourg,lu,544194668967361,Piraten Gemeng Déifferdeng,Facebook
+e3a9a67f-2bdd-41ea-bfa1-456ffe239207,Stéphanie Empain,2023-09-25T05:07:00.703Z,6518a389-4848-4ff9-aed9-e9b5ac423991,GRENG,Luxembourg,lu,313294426192409,Stéphanie Empain,Facebook
 db58c39c-4ed1-4b4f-8728-cc53051a8e25,CSJ,2023-05-30T06:53:21.326Z,65215e24-26cd-4d50-a4c6-cafbe9878ee6,CSV,Luxembourg,lu,118614251515164,CSJ,Facebook
 aa53cda1-5348-4ca0-aba5-05cb6853ad15,JSL,2023-06-09T06:52:55.417Z,4c33153f-2d0e-4c1d-885f-5547e8522450,LSAP,Luxembourg,lu,64281432571,JSL,Facebook
+b7ef0602-fe52-41c1-a703-6b74132d5816,Partei,2023-10-05T05:08:05.606Z,a9bec475-af3c-46a1-90ba-00d035b44c12,OTHER,Luxembourg,lu,107063500775615,Partei,Facebook
 d275aa83-89bd-4dff-b7a4-b6b554bc7e03,Piraten Gemeng Stroossen,2023-03-03T10:53:28.414Z,fd569f30-12b4-405b-9e31-2aae1c3207aa,PIR,Luxembourg,lu,102979536051752,Piraten Gemeng Stroossen,Facebook
-61c30d6a-52cc-434e-b3b7-1e6cb2364886,Piraten Miersch,2023-03-05T10:53:38.174Z,a9d459a7-50c0-4d26-8a1b-ce0758246391,PIR,Luxembourg,lu,110220935339251,Piraten Miersch,Facebook
 5f508bcc-4e3d-4bbb-8203-9c05e652afd0,Piraten Bezierk Süden,2023-02-21T10:53:24.988Z,7f1507bc-8fa5-4ea9-a985-8aaae262cc1e,PIR,Luxembourg,lu,659368007411223,Piraten Bezierk Süden,Facebook
+8b32efee-3c66-4e85-b209-c966d6095ecc,Piraten Gemeng Déifferdeng,2023-03-07T10:53:26.094Z,59bea863-171e-4e6a-b356-dc88ca971772,PIR,Luxembourg,lu,544194668967361,Piraten Gemeng Déifferdeng,Facebook
 2291c54d-2429-47ac-b5a0-33f510abff16,LSAP Wooltz,2023-03-06T10:53:30.556Z,6672e816-4833-4c29-aec2-426ae540c81d,LSAP,Luxembourg,lu,1553688331539374,LSAP Wooltz,Facebook
-47852c37-cdec-412a-bddb-9237b3a9d64c,Thierry Zoller,2023-10-10T05:07:02.312Z,fc1d76cc-0d0c-4dfd-b6d0-48db823b6b7b,PIR,Luxembourg,lu,110781455458944,Thierry Zoller,Facebook
 da2a54b3-6c73-4f12-a19a-abc97b2ce42e,LSAP Déifferdeng,2023-02-19T10:53:42.396Z,b1e628e4-958a-49e8-af0b-94705e35d00c,LSAP,Luxembourg,lu,110454931721860,LSAP Déifferdeng,Facebook
 1285a098-e2e3-4e5e-a02f-aaf1477e814b,ADR Stad,2023-03-02T10:53:27.628Z,507ae248-5604-49b5-98ed-a1c4057eb7bb,ADR,Luxembourg,lu,1493992650681550,ADR Stad,Facebook
 6b6d87b9-dbdf-4158-a97e-27bb1cb5b890,DP Betzder,2023-02-25T10:53:33.456Z,bd04f587-b004-44c2-897f-22d7de35eba2,DP,Luxembourg,lu,103750195668043,DP Betzder,Facebook
-16be7895-9eab-4f20-9905-cb89a3e96560,Ville de Differdange,2023-02-07T15:04:59.226Z,e02ee742-e9c9-4abe-a39c-595fd4af4eab,OTHER,Luxembourg,lu,498556763554039,Ville de Differdange,Facebook
+61c30d6a-52cc-434e-b3b7-1e6cb2364886,Piraten Miersch,2023-03-05T10:53:38.174Z,a9d459a7-50c0-4d26-8a1b-ce0758246391,PIR,Luxembourg,lu,110220935339251,Piraten Miersch,Facebook
+47852c37-cdec-412a-bddb-9237b3a9d64c,Thierry Zoller,2023-10-10T05:07:02.312Z,fc1d76cc-0d0c-4dfd-b6d0-48db823b6b7b,PIR,Luxembourg,lu,110781455458944,Thierry Zoller,Facebook
+811b6c4e-a82a-4fbb-947d-4cacf374e2f5,Ministère de l'Égalité entre les femmes et les hommes - Luxembourg,2023-02-07T15:04:59.283Z,0346aaa1-1062-4928-8210-cf2c294e2c26,GOV,Luxembourg,lu,182515489178270,Ministère de l'Égalité entre les femmes et les hommes - Luxembourg,Facebook
 46fbe863-4c48-42bd-b145-2e09dac53016,Gary Diderich,2023-10-09T05:07:07.663Z,706338f2-2606-487a-aee0-9e01de3d0fc9,LENK,Luxembourg,lu,73144437219,Gary Diderich,Facebook
 a0c443e5-cd08-4996-94bf-f6d3cd434fe3,Egalitéit liewen,2023-02-07T15:04:59.150Z,21256ffc-6be9-4661-91e8-01141865f78e,GOV,Luxembourg,lu,101721849313379,Egalitéit liewen,Facebook
-811b6c4e-a82a-4fbb-947d-4cacf374e2f5,Ministère de l'Égalité entre les femmes et les hommes - Luxembourg,2023-02-07T15:04:59.283Z,0346aaa1-1062-4928-8210-cf2c294e2c26,GOV,Luxembourg,lu,182515489178270,Ministère de l'Égalité entre les femmes et les hommes - Luxembourg,Facebook
+16be7895-9eab-4f20-9905-cb89a3e96560,Ville de Differdange,2023-02-07T15:04:59.226Z,e02ee742-e9c9-4abe-a39c-595fd4af4eab,OTHER,Luxembourg,lu,498556763554039,Ville de Differdange,Facebook
+0629aba0-4eb8-42f7-8e56-dcfb2e4ba54c,Réimecher Piraten,2023-02-08T05:54:33.650Z,834fb3a6-62a1-4a7a-b7a0-6c07eaed6280,PIR,Luxembourg,lu,119259865347592,Réimecher Piraten,Facebook
 259b44a4-eb03-4984-88af-2a9ee509c096,ADR  - Alternativ Demokratesch Reformpartei,2023-02-07T15:04:59.275Z,8c8e0aad-786d-44fb-9a29-47b6617ecef3,ADR,Luxembourg,lu,115916035102253,ADR  - Alternativ Demokratesch Reformpartei,Facebook
 03a6ef2b-ad14-4361-a01e-509056e95681,LSAP Sektioun Dippach,2023-02-11T10:53:13.745Z,51b1fb43-9749-4d90-b48e-7cc4fb55cf6c,LSAP,Luxembourg,lu,1122545261173167,LSAP Sektioun Dippach,Facebook
-0629aba0-4eb8-42f7-8e56-dcfb2e4ba54c,Réimecher Piraten,2023-02-08T05:54:33.650Z,834fb3a6-62a1-4a7a-b7a0-6c07eaed6280,PIR,Luxembourg,lu,119259865347592,Réimecher Piraten,Facebook
 53024f60-fc6c-4277-bfe4-cfa1cbbc183a,"Yann Pellé ,Kandidat vir Gemengewalen zu Colmar-Berg",2023-02-07T15:04:59.314Z,e7160717-c328-4c37-9a16-7f4b49196c5f,PIR,Luxembourg,lu,110312638572826,"Yann Pellé ,Kandidat vir Gemengewalen zu Colmar-Berg",Facebook
-ecaf8c08-68fd-4999-909e-b63095d1c9b7,LSAP,2023-02-07T15:04:59.330Z,0d1b93e4-066b-49f6-a424-ddb2922546b0,LSAP,Luxembourg,lu,47216059667,LSAP,Facebook
 52e0345d-e200-488f-8afa-3b3c46ee2a4a,Sven Clement,2023-02-13T10:53:36.577Z,eaf80b63-ecf4-439c-91a8-689d91e35300,PIR,Luxembourg,lu,1942749669370373,Sven Clement,Facebook
+ecaf8c08-68fd-4999-909e-b63095d1c9b7,LSAP,2023-02-07T15:04:59.330Z,0d1b93e4-066b-49f6-a424-ddb2922546b0,LSAP,Luxembourg,lu,47216059667,LSAP,Facebook
 96b29d87-6621-440f-b212-1107eaabddb7,Piraten Gemeng Péiteng,2023-02-07T15:04:59.358Z,9ff05651-6bee-48e1-addb-96a65b1d2c7d,PIR,Luxembourg,lu,390962737619967,Piraten Gemeng Péiteng,Facebook
 87dbef57-8dcb-4ed6-9710-28314e6bdd68,"ADRenalin, déi jonk adr",2023-02-08T05:54:33.637Z,0c5b5ce8-9175-46e9-b244-74569b973be3,ADR,Luxembourg,lu,124205267649571,"ADRenalin, déi jonk adr",Facebook
 a15d6252-82e3-441e-94e2-6cf92a5a98b8,Marc Goergen - Député,2023-02-07T15:04:59.419Z,17039536-e834-40ac-a5d0-f0f4cded0fad,PIR,Luxembourg,lu,2139886662711123,Marc Goergen - Député,Facebook
@@ -83,87 +83,87 @@ a15d6252-82e3-441e-94e2-6cf92a5a98b8,Marc Goergen - Député,2023-02-07T15:04:59
 fd41c130-2e35-44e8-a033-6b74805d4fc3,"Our City, Our Votes / Notre Ville, Nos Votes",2023-02-08T05:54:33.652Z,354a96c2-10d4-4bca-aab6-9022eec2cd0d,LENK,Luxembourg,lu,113465831629780,"Our City, Our Votes / Notre Ville, Nos Votes",Facebook
 6aee6e07-9871-4c6d-902d-e28ef2f54fa6,Déi Konservativ - d'Fräiheetspartei,2023-02-13T10:53:36.612Z,d37a38f2-ce62-462e-951e-2706db9ade5b,OTHER,Luxembourg,lu,235829416883581,Déi Konservativ - d'Fräiheetspartei,Facebook
 396ff63b-d75e-46dd-b5a0-6105c048a74f,Fokus,2023-02-09T06:27:56.759Z,e8c01d8c-6d4f-4298-9551-4bee427b5540,OTHER,Luxembourg,lu,102574292369719,Fokus,Facebook
-d4be8131-e2af-4741-8450-5260e563d2e8,ADR Diddeleng-Keeldall,2023-06-12T06:52:52.081Z,d402baa6-9502-4cfc-b88a-3f21c116dcab,ADR,Luxembourg,lu,104978834557473,ADR Diddeleng-Keeldall,Facebook
 9d90452e-861f-4158-8542-6db675ea962e,déi gréng Stad Lëtzebuerg,2023-02-10T10:53:36.048Z,69deba7c-2d3c-4e03-8344-f03b9f393e02,GRENG,Luxembourg,lu,223763820986825,déi gréng Stad Lëtzebuerg,Facebook
 f809455c-5037-432a-9f8d-dbc3dba39874,LSAP Beetebuerg,2023-10-31T05:23:01.224Z,dff7b6a9-a68a-4bd7-b683-d739b22f5bad,LSAP,Luxembourg,lu,364938233557661,LSAP Beetebuerg,Facebook
 2e3fb03b-7fad-4008-8c5e-4031d0a33e83,ADR Sektioun Käerjeng,2023-05-29T06:52:51.901Z,09d2255c-ae9b-41ef-bf93-8649e7214a85,ADR,Luxembourg,lu,110544087279496,ADR Sektioun Käerjeng,Facebook
-7cb8d0af-a3c4-475b-86cd-4fe4115d3bb2,CSV & CSJ Stad,2023-06-13T06:53:12.726Z,e5854b4c-4746-4799-b43c-2961b43e966f,CSV,Luxembourg,lu,409775939866,CSV & CSJ Stad,Facebook
 96e97a76-4758-4879-a0f7-63a0a6ca1f58,CSV Cliärref,2023-05-01T06:52:58.993Z,e2b29008-3470-4e55-a50e-fb59a93241fb,CSV,Luxembourg,lu,232501883861059,CSV Cliärref,Facebook
-b076512d-73a0-41ee-b377-672d22d7972c,csv_lu,2023-05-06T06:53:09.571Z,122376e9-9c7c-41be-887d-d9a6706dcd5f,CSV,Luxembourg,lu,104079981902412,csv_lu,Facebook
+d4be8131-e2af-4741-8450-5260e563d2e8,ADR Diddeleng-Keeldall,2023-06-12T06:52:52.081Z,d402baa6-9502-4cfc-b88a-3f21c116dcab,ADR,Luxembourg,lu,104978834557473,ADR Diddeleng-Keeldall,Facebook
 a26fd896-9b2a-445f-9b7e-74d9d67e92e5,déi gréng Stengefort,2023-06-09T06:52:55.348Z,c78a22c7-7172-42b4-a9ef-c6423ed7be59,GRENG,Luxembourg,lu,323718964703383,déi gréng Stengefort,Facebook
-3495bce4-7b4b-4a18-b2bd-8c6302eaca5e,Déi gréng Süden,2023-09-08T05:07:04.383Z,4b020813-d87e-444a-8238-24735290b720,GRENG,Luxembourg,lu,103237632863093,Déi gréng Süden,Facebook
 408e13d9-e701-4a3f-8775-254c45504bd7,LSAP Dikrich,2023-05-21T06:53:07.275Z,2a86d7be-4132-48f6-88c3-9b68636cab60,LSAP,Luxembourg,lu,1539641459670332,LSAP Dikrich,Facebook
-7e7e38ec-225a-4a72-96f1-a632d1ae4d4b,LSAP Monnerech,2023-06-15T06:53:03.912Z,af9e6ddc-c093-4800-9eb6-ab3231b5db3a,LSAP,Luxembourg,lu,519811561405297,LSAP Monnerech,Facebook
+7cb8d0af-a3c4-475b-86cd-4fe4115d3bb2,CSV & CSJ Stad,2023-06-13T06:53:12.726Z,e5854b4c-4746-4799-b43c-2961b43e966f,CSV,Luxembourg,lu,409775939866,CSV & CSJ Stad,Facebook
 895f883d-0f3e-4b33-aed6-9ee12eca9262,DP Clervaux,2023-06-05T06:53:15.592Z,7432fd4c-4d8f-430f-8fb2-b192240426bd,DP,Luxembourg,lu,1485517848149432,DP Clervaux,Facebook
-cdc6f215-40ae-4dee-b4eb-ae04b3b66ce2,DP Stad,2023-05-20T06:53:16.803Z,75e26a73-8266-48f7-b339-b40bcec259c3,DP,Luxembourg,lu,282921708767132,DP Stad,Facebook
 9399659b-1f89-43be-8d75-f55f639d43d9,CSV Déifferdeng,2023-04-30T06:52:50.407Z,46dc0843-750d-4b87-a241-b382a7aed00f,CSV,Luxembourg,lu,1500639466920307,CSV Déifferdeng,Facebook
-3fad587a-e829-41ec-817a-9b1913b63055,CSV Gemeng Suessem,2023-05-23T06:53:12.062Z,b91bba59-9313-46fc-9e22-070adc8ac565,CSV,Luxembourg,lu,225696334126127,CSV Gemeng Suessem,Facebook
+b076512d-73a0-41ee-b377-672d22d7972c,csv_lu,2023-05-06T06:53:09.571Z,122376e9-9c7c-41be-887d-d9a6706dcd5f,CSV,Luxembourg,lu,104079981902412,csv_lu,Facebook
 0980a1e2-6a56-44b2-9658-51c370145158,Semiray Ahmedova,2023-07-22T05:07:43.026Z,7f3652a1-1855-43c2-95c5-c32166e42373,GRENG,Luxembourg,lu,111927167008455,Semiray Ahmedova,Facebook
-bdf417a2-2182-4fb9-85e2-596345e4be55,déi gréng Walfer,2023-05-21T06:53:07.284Z,c1599266-c282-4c78-bc3f-2552a9b35cff,GRENG,Luxembourg,lu,194129080611029,déi gréng Walfer,Facebook
+3495bce4-7b4b-4a18-b2bd-8c6302eaca5e,Déi gréng Süden,2023-09-08T05:07:04.383Z,4b020813-d87e-444a-8238-24735290b720,GRENG,Luxembourg,lu,103237632863093,Déi gréng Süden,Facebook
 6262817f-d652-49b1-85dc-977a49160e2c,LSAP-Niederanven,2023-05-06T06:53:09.579Z,3604831b-2709-4ed6-843a-3bc7d7c3af80,LSAP,Luxembourg,lu,101455666610468,LSAP-Niederanven,Facebook
-34efb593-bd96-4e88-ada6-afb6ba2ea7b2,LSAP Gemeng Kielen,2023-05-23T06:53:12.094Z,2f8ff610-d093-4ab5-974d-d1801ae12674,LSAP,Luxembourg,lu,250206385003450,LSAP Gemeng Kielen,Facebook
+7e7e38ec-225a-4a72-96f1-a632d1ae4d4b,LSAP Monnerech,2023-06-15T06:53:03.912Z,af9e6ddc-c093-4800-9eb6-ab3231b5db3a,LSAP,Luxembourg,lu,519811561405297,LSAP Monnerech,Facebook
 2e630ccc-d4e2-480e-aadf-da9349471fd7,DP Dikrich,2023-05-31T06:53:13.296Z,2878b84b-07db-4ea3-82bf-7be6e711e551,DP,Luxembourg,lu,924337704285035,DP Dikrich,Facebook
-39f36272-c7cd-4d2c-bf1d-08e7c76459d2,DP Helperknapp,2023-06-03T06:53:03.630Z,df3f6954-85df-400d-91a6-a1643d1bf039,DP,Luxembourg,lu,102759969344788,DP Helperknapp,Facebook
 0af3adcf-77dd-4a9e-bc84-30819952cc2a,DP Wëntger,2023-06-09T06:52:55.410Z,e5b3807c-ba3c-4f98-b971-5176d2fc2b69,DP,Luxembourg,lu,139045840010432,DP Wëntger,Facebook
+cdc6f215-40ae-4dee-b4eb-ae04b3b66ce2,DP Stad,2023-05-20T06:53:16.803Z,75e26a73-8266-48f7-b339-b40bcec259c3,DP,Luxembourg,lu,282921708767132,DP Stad,Facebook
 922c5867-2375-4d64-b631-009459883973,Piratepartei Bezierk Norden,2023-09-10T05:06:53.884Z,f19a0d80-76f7-4177-91cc-ce9bd9a0c145,PIR,Luxembourg,lu,494284087327520,Piratepartei Bezierk Norden,Facebook
-51e14e09-4fca-4378-bdd1-bb8a06ffd14f,Gabriel Bleser,2023-08-25T05:06:38.151Z,1245c25b-d994-41ec-bca2-902d6daa69ad,PIR,Luxembourg,lu,104142506109730,Gabriel Bleser,Facebook
-57b653d0-0982-477f-a40f-c2f275f2e3d5,CSV Gemeng Jonglënster,2023-06-12T06:52:52.140Z,851b6d03-ed88-45c2-a5b8-7ca7a7b6b28a,CSV,Luxembourg,lu,140867166318815,CSV Gemeng Jonglënster,Facebook
 22c1866b-039f-4fb5-90f4-7e8beeb264e7,CSV Koplescht-Briddel,2023-05-28T06:52:44.585Z,14ca8071-825f-4bd6-903e-52aac52099fa,CSV,Luxembourg,lu,1124506694296899,CSV Koplescht-Briddel,Facebook
+3fad587a-e829-41ec-817a-9b1913b63055,CSV Gemeng Suessem,2023-05-23T06:53:12.062Z,b91bba59-9313-46fc-9e22-070adc8ac565,CSV,Luxembourg,lu,225696334126127,CSV Gemeng Suessem,Facebook
 090af7cf-0c8c-40f2-8b88-56db517c40b0,Djuna Bernard,2023-09-11T05:07:04.965Z,f679a303-3026-4efa-aac4-c97cb6026b72,GRENG,Luxembourg,lu,103409564883471,Djuna Bernard,Facebook
+bdf417a2-2182-4fb9-85e2-596345e4be55,déi gréng Walfer,2023-05-21T06:53:07.284Z,c1599266-c282-4c78-bc3f-2552a9b35cff,GRENG,Luxembourg,lu,194129080611029,déi gréng Walfer,Facebook
 a71c0b4f-f250-45ed-9d86-f2b0b230e832,LSAP Fréiseng,2023-06-06T06:52:52.751Z,cfc41222-72a5-43bb-8c6b-5cb8daca4494,LSAP,Luxembourg,lu,504994856556412,LSAP Fréiseng,Facebook
-a1ed72dc-e23b-423b-b27a-48d68ca08920,CSV Süden,2023-08-12T05:07:39.189Z,181dc5d9-92e7-492a-b90b-93d8a7a1bde2,CSV,Luxembourg,lu,470862336268529,CSV Süden,Facebook
 86e6977c-e681-48ec-ae13-0f7e04afacad,DP Gemeng Käerjeng,2023-06-13T06:53:12.818Z,f9dab2f7-364d-466c-922d-6fda87d50ae7,DP,Luxembourg,lu,142777635813427,DP Gemeng Käerjeng,Facebook
-8ee49ad8-6db0-49f7-85d3-4e637b791374,déi gréng Schëtter,2023-06-10T06:52:49.435Z,03a4ffc5-f047-487b-951b-220af29f5100,GRENG,Luxembourg,lu,255076481645721,déi gréng Schëtter,Facebook
+34efb593-bd96-4e88-ada6-afb6ba2ea7b2,LSAP Gemeng Kielen,2023-05-23T06:53:12.094Z,2f8ff610-d093-4ab5-974d-d1801ae12674,LSAP,Luxembourg,lu,250206385003450,LSAP Gemeng Kielen,Facebook
+39f36272-c7cd-4d2c-bf1d-08e7c76459d2,DP Helperknapp,2023-06-03T06:53:03.630Z,df3f6954-85df-400d-91a6-a1643d1bf039,DP,Luxembourg,lu,102759969344788,DP Helperknapp,Facebook
+51e14e09-4fca-4378-bdd1-bb8a06ffd14f,Gabriel Bleser,2023-08-25T05:06:38.151Z,1245c25b-d994-41ec-bca2-902d6daa69ad,PIR,Luxembourg,lu,104142506109730,Gabriel Bleser,Facebook
 3880adfb-fad2-40cc-a6fd-0e2e99f0e1d2,Ben Polidori,2023-08-25T05:06:38.164Z,3e021cc8-c164-4493-a237-2b671fdd8817,PIR,Luxembourg,lu,102774292678753,Ben Polidori,Facebook
-2aa24e96-c5a4-4cdd-8034-c72be1951c4e,LSAP Diddelenger Sozialisten,2023-05-09T06:53:04.752Z,c933984c-7ccc-42e1-8c2d-73db33ef4eaa,LSAP,Luxembourg,lu,201573259863592,LSAP Diddelenger Sozialisten,Facebook
-fee282cd-b1f8-4851-bbf0-8ae886e184d8,DP Strassen,2023-05-31T06:53:13.297Z,ef2142d5-6af8-40d8-91b8-b66b0864e3af,DP,Luxembourg,lu,1611411685764027,DP Strassen,Facebook
 570af134-36bf-4362-bdb2-e017968bbdd4,CSV Kehlen,2023-05-02T06:53:12.643Z,7f408920-5837-4732-88ff-f1aba9c8b5b0,CSV,Luxembourg,lu,206307536066427,CSV Kehlen,Facebook
+57b653d0-0982-477f-a40f-c2f275f2e3d5,CSV Gemeng Jonglënster,2023-06-12T06:52:52.140Z,851b6d03-ed88-45c2-a5b8-7ca7a7b6b28a,CSV,Luxembourg,lu,140867166318815,CSV Gemeng Jonglënster,Facebook
+a1ed72dc-e23b-423b-b27a-48d68ca08920,CSV Süden,2023-08-12T05:07:39.189Z,181dc5d9-92e7-492a-b90b-93d8a7a1bde2,CSV,Luxembourg,lu,470862336268529,CSV Süden,Facebook
 36b432c7-0451-4ee2-bd6d-9530ed882c87,déi gréng Stroossen,2023-05-23T06:53:12.082Z,2f82678e-d205-477f-8503-d0719b70b750,GRENG,Luxembourg,lu,231504966873501,déi gréng Stroossen,Facebook
-1a20885e-cdca-46e3-8f74-a6fd852fdc39,CSV Gemeng Mamer,2023-06-08T06:53:04.351Z,66a482f4-eae0-44d7-922a-fdc2f8ae810d,CSV,Luxembourg,lu,210412179004856,CSV Gemeng Mamer,Facebook
+8ee49ad8-6db0-49f7-85d3-4e637b791374,déi gréng Schëtter,2023-06-10T06:52:49.435Z,03a4ffc5-f047-487b-951b-220af29f5100,GRENG,Luxembourg,lu,255076481645721,déi gréng Schëtter,Facebook
 560cec51-7d0f-4bf6-a480-0248103c3020,LSAP Mertert-Wasserbillig,2023-05-24T06:53:16.930Z,4b17cb4a-c6b9-4f3f-ac72-d334ebe0ff49,LSAP,Luxembourg,lu,1130282433783732,LSAP Mertert-Wasserbillig,Facebook
-fd851168-0443-4370-9a82-edf078ef1b66,déi gréng Steesel,2023-06-03T06:53:03.616Z,200ff102-049b-488e-b116-360478183fb1,GRENG,Luxembourg,lu,504413659664277,déi gréng Steesel,Facebook
-3e0640cb-dffc-4679-a65e-4fbd7bb90056,LSAP - Gemeng Mamer,2023-05-23T06:53:12.094Z,87fd401f-c803-4560-8ee2-d65e85dbf8c1,LSAP,Luxembourg,lu,117386351680173,LSAP - Gemeng Mamer,Facebook
+2aa24e96-c5a4-4cdd-8034-c72be1951c4e,LSAP Diddelenger Sozialisten,2023-05-09T06:53:04.752Z,c933984c-7ccc-42e1-8c2d-73db33ef4eaa,LSAP,Luxembourg,lu,201573259863592,LSAP Diddelenger Sozialisten,Facebook
 b3480276-09f2-4ea2-8553-24de7b6d5e5a,DP - Sektioun Esch,2023-06-05T06:53:15.591Z,56c6989c-e37e-4c09-b86a-e29a7ad2fa1b,DP,Luxembourg,lu,359332950923232,DP - Sektioun Esch,Facebook
 3dc6cc1d-977b-428b-9021-0d9175c6c512,Piraten Gemeng Suessem,2023-04-25T06:53:00.561Z,14ae0741-fc04-4bca-a702-76d68d019681,PIR,Luxembourg,lu,2094234617571605,Piraten Gemeng Suessem,Facebook
-a06326f9-80b3-4732-8ae0-427e40c3cf02,DP Schifflange,2023-06-10T06:52:49.412Z,18d4d2ca-e824-41cf-ac35-db0920664120,DP,Luxembourg,lu,665752113607886,DP Schifflange,Facebook
-4505b231-55c0-4204-ba0e-ec5f6b11bafd,Betzdorfer Piraten,2023-09-04T05:06:49.303Z,a841a8ac-9df9-4a2d-9fad-3a7ffd57ad7a,PIR,Luxembourg,lu,116110058111215,Betzdorfer Piraten,Facebook
+fee282cd-b1f8-4851-bbf0-8ae886e184d8,DP Strassen,2023-05-31T06:53:13.297Z,ef2142d5-6af8-40d8-91b8-b66b0864e3af,DP,Luxembourg,lu,1611411685764027,DP Strassen,Facebook
 9e217c2d-5689-40cd-b7f7-2388f5c51d3a,Sam Tanson,2023-06-24T06:47:26.826Z,3ab518c7-007e-4431-847e-eb4d2fe766ce,GRENG,Luxembourg,lu,100450273065463,Sam Tanson,Facebook
-4a7895c8-5dd2-4b2c-bb2e-d96e0180d6a1,déi gréng Eechternoach,2023-06-10T06:52:49.394Z,a1a288f9-6097-4410-83c3-28d1bcd3cb00,GRENG,Luxembourg,lu,1521911981410180,déi gréng Eechternoach,Facebook
+1a20885e-cdca-46e3-8f74-a6fd852fdc39,CSV Gemeng Mamer,2023-06-08T06:53:04.351Z,66a482f4-eae0-44d7-922a-fdc2f8ae810d,CSV,Luxembourg,lu,210412179004856,CSV Gemeng Mamer,Facebook
 f823bda3-33ac-4d57-b520-5d3350fd7b8d,LSAP Stengefort,2023-06-04T06:52:49.411Z,64bdd8da-b5b2-4298-8e42-1cdbc686736c,LSAP,Luxembourg,lu,305870449461414,LSAP Stengefort,Facebook
-43515eda-c4d2-4a4e-85d1-c5273ef899aa,déi gréng Réimech,2023-06-09T06:52:55.348Z,a672e41e-4aad-40f7-98a4-8397d27a2300,GRENG,Luxembourg,lu,210983655636270,déi gréng Réimech,Facebook
+fd851168-0443-4370-9a82-edf078ef1b66,déi gréng Steesel,2023-06-03T06:53:03.616Z,200ff102-049b-488e-b116-360478183fb1,GRENG,Luxembourg,lu,504413659664277,déi gréng Steesel,Facebook
 e70ff59a-6d6b-443b-bc33-fef8d09fd198,DP Gemeng Dippech,2023-05-21T06:53:07.289Z,9af504f1-ba88-4154-8278-88b760c3c1fc,DP,Luxembourg,lu,277864362231133,DP Gemeng Dippech,Facebook
 a50e59e6-d5a6-41f9-bb4e-636a2ee4f720,Piraten Gemeng Käerjeng,2023-05-30T06:53:21.356Z,8eb161fa-8ec7-40be-b6aa-8acbabe3bedc,PIR,Luxembourg,lu,1427441377470637,Piraten Gemeng Käerjeng,Facebook
+3e0640cb-dffc-4679-a65e-4fbd7bb90056,LSAP - Gemeng Mamer,2023-05-23T06:53:12.094Z,87fd401f-c803-4560-8ee2-d65e85dbf8c1,LSAP,Luxembourg,lu,117386351680173,LSAP - Gemeng Mamer,Facebook
+4a7895c8-5dd2-4b2c-bb2e-d96e0180d6a1,déi gréng Eechternoach,2023-06-10T06:52:49.394Z,a1a288f9-6097-4410-83c3-28d1bcd3cb00,GRENG,Luxembourg,lu,1521911981410180,déi gréng Eechternoach,Facebook
+a06326f9-80b3-4732-8ae0-427e40c3cf02,DP Schifflange,2023-06-10T06:52:49.412Z,18d4d2ca-e824-41cf-ac35-db0920664120,DP,Luxembourg,lu,665752113607886,DP Schifflange,Facebook
+4505b231-55c0-4204-ba0e-ec5f6b11bafd,Betzdorfer Piraten,2023-09-04T05:06:49.303Z,a841a8ac-9df9-4a2d-9fad-3a7ffd57ad7a,PIR,Luxembourg,lu,116110058111215,Betzdorfer Piraten,Facebook
+43515eda-c4d2-4a4e-85d1-c5273ef899aa,déi gréng Réimech,2023-06-09T06:52:55.348Z,a672e41e-4aad-40f7-98a4-8397d27a2300,GRENG,Luxembourg,lu,210983655636270,déi gréng Réimech,Facebook
 81b620fb-305f-46fb-98ae-2ad517a193cb,déi gréng Kielen,2023-06-02T06:53:23.173Z,0dfacf73-4095-46b5-8809-cfb4c3eefe67,GRENG,Luxembourg,lu,129187537158523,déi gréng Kielen,Facebook
 140561c6-29e5-4d03-95e8-cd4fa01d7d30,déi gréng Käl-Téiteng,2023-06-03T06:53:03.629Z,d5274ba3-9f83-4596-ae8b-dd6fe9ad8a51,GRENG,Luxembourg,lu,218629504828362,déi gréng Käl-Téiteng,Facebook
 cac0dde3-c5dc-4588-912f-8e19336991c7,déi gréng Sandweiler,2023-06-04T06:52:49.388Z,2763aa98-1de2-483f-b7b7-7ee5ca3013cf,GRENG,Luxembourg,lu,1078285385577923,déi gréng Sandweiler,Facebook
-d8363101-844d-4844-a48c-a3e3fa50ecc4,déi gréng Réiser,2023-06-11T06:52:57.503Z,7e43922c-9a02-4d11-a4ae-08ebb9a06aa0,GRENG,Luxembourg,lu,138143676592504,déi gréng Réiser,Facebook
-2233e5e6-15f2-4174-83a0-571b1f412954,déi gréng Maacher,2023-06-09T06:52:55.266Z,2ddf7be0-d75e-4f7b-9c28-7e8dbb797c50,GRENG,Luxembourg,lu,1182224295206779,déi gréng Maacher,Facebook
 e4b048b4-42c3-4505-afb9-8f0fe3fe1868,déi gréng Luerenzweiler,2023-06-06T06:52:52.749Z,5e869264-0e9a-487d-b177-24806202f669,GRENG,Luxembourg,lu,203468563044302,déi gréng Luerenzweiler,Facebook
-d223a658-6d26-44ea-b869-6b52f6cc252b,déi gréng Miersch,2023-05-27T06:52:52.050Z,fa5bdde1-1478-4e85-b998-e6ecb9545acf,GRENG,Luxembourg,lu,193763327326822,déi gréng Miersch,Facebook
+d8363101-844d-4844-a48c-a3e3fa50ecc4,déi gréng Réiser,2023-06-11T06:52:57.503Z,7e43922c-9a02-4d11-a4ae-08ebb9a06aa0,GRENG,Luxembourg,lu,138143676592504,déi gréng Réiser,Facebook
 0db3b93a-ef7a-41bb-bc72-533852d5f00d,Déi Gréng Nordstad,2023-05-23T06:53:12.094Z,107d7dc6-87dd-46de-a9e0-c4d406468a59,GRENG,Luxembourg,lu,176764549056145,Déi Gréng Nordstad,Facebook
-1e84752e-71ac-4092-b95d-798b8a285f61,déi gréng Mamer,2023-05-28T06:52:44.566Z,7b4844eb-71a0-4188-b568-9ff8cc627f31,GRENG,Luxembourg,lu,140046979734741,déi gréng Mamer,Facebook
+2233e5e6-15f2-4174-83a0-571b1f412954,déi gréng Maacher,2023-06-09T06:52:55.266Z,2ddf7be0-d75e-4f7b-9c28-7e8dbb797c50,GRENG,Luxembourg,lu,1182224295206779,déi gréng Maacher,Facebook
 5473eb9a-56cc-45f3-b83a-28b3af0f3eec,déi gréng Scheffleng,2023-06-10T06:52:49.430Z,9623888b-7fae-4dbe-8e4b-f1c47078495d,GRENG,Luxembourg,lu,114389331977338,déi gréng Scheffleng,Facebook
-d5fb3113-5d43-45af-a5ae-25dc89a06ef2,Piraten Grevenmacher,2023-09-04T05:06:49.287Z,2d2b4b36-1988-4b0f-806c-e14d18107708,PIR,Luxembourg,lu,111361840207408,Piraten Grevenmacher,Facebook
-67b67ebe-96b4-4ed9-9ac0-abd3e2662b6c,déi Lénk Diddeleng,2023-05-11T06:53:29.766Z,00ec28d6-001d-4545-8e99-c6ccc8698845,LENK,Luxembourg,lu,171407019588888,déi Lénk Diddeleng,Facebook
+1e84752e-71ac-4092-b95d-798b8a285f61,déi gréng Mamer,2023-05-28T06:52:44.566Z,7b4844eb-71a0-4188-b568-9ff8cc627f31,GRENG,Luxembourg,lu,140046979734741,déi gréng Mamer,Facebook
+d223a658-6d26-44ea-b869-6b52f6cc252b,déi gréng Miersch,2023-05-27T06:52:52.050Z,fa5bdde1-1478-4e85-b998-e6ecb9545acf,GRENG,Luxembourg,lu,193763327326822,déi gréng Miersch,Facebook
 3de29721-e2bb-4e86-b239-0f07d0dc2393,déi Lénk Déifferdeng,2023-05-01T06:52:58.964Z,ae77de6a-2c77-45fe-af07-3364a731be44,LENK,Luxembourg,lu,134418416573300,déi Lénk Déifferdeng,Facebook
-5f594789-c56f-421d-a1aa-b8156790161b,Chrëschtlech Sozial Vollekspartei Stengefort,2023-05-10T06:53:29.748Z,2ca85d46-03c1-4fa1-979f-7a0f7f74babc,CSV,Luxembourg,lu,106158511392720,Chrëschtlech Sozial Vollekspartei Stengefort,Facebook
-9405c487-b181-44b5-af59-ed4d7ab9bfe5,déi Lénk Péiteng,2023-04-17T08:08:48.947Z,4f4c7457-cb25-44ba-b53e-c0ae6bf0b556,LENK,Luxembourg,lu,770068806493623,déi Lénk Péiteng,Facebook
+d5fb3113-5d43-45af-a5ae-25dc89a06ef2,Piraten Grevenmacher,2023-09-04T05:06:49.287Z,2d2b4b36-1988-4b0f-806c-e14d18107708,PIR,Luxembourg,lu,111361840207408,Piraten Grevenmacher,Facebook
 c4525b98-f735-40a7-b353-0dc49d66f8b9,déi Lénk Stad,2023-05-06T06:53:09.580Z,dc9ebbd2-334e-43c5-8e0e-f2142d6055f3,LENK,Luxembourg,lu,222347674453768,déi Lénk Stad,Facebook
-5f938953-a43e-473d-a199-d8212b78799d,Tom Weidig,2023-03-08T19:22:18.451Z,84b0c7b6-2af1-444e-a0de-6956b73d3be8,ADR,Luxembourg,lu,288782231902373,Tom Weidig,Facebook
+67b67ebe-96b4-4ed9-9ac0-abd3e2662b6c,déi Lénk Diddeleng,2023-05-11T06:53:29.766Z,00ec28d6-001d-4545-8e99-c6ccc8698845,LENK,Luxembourg,lu,171407019588888,déi Lénk Diddeleng,Facebook
+5f594789-c56f-421d-a1aa-b8156790161b,Chrëschtlech Sozial Vollekspartei Stengefort,2023-05-10T06:53:29.748Z,2ca85d46-03c1-4fa1-979f-7a0f7f74babc,CSV,Luxembourg,lu,106158511392720,Chrëschtlech Sozial Vollekspartei Stengefort,Facebook
 2c4b57eb-1525-4356-aeaa-b8f6b75ba314,,2023-05-16T06:53:12.932Z,cdb02dd9-4672-4538-a65e-3ae4774970d6,GRENG,Luxembourg,lu,114437258307525,,Facebook
-3b5bb857-22e3-453d-b418-a3634b9f459a,Vesali Amir,2023-03-01T10:53:24.815Z,75149434-8fd7-4a57-95e2-f3b84b6d40d8,LSAP,Luxembourg,lu,462665857488803,Vesali Amir,Facebook
+9405c487-b181-44b5-af59-ed4d7ab9bfe5,déi Lénk Péiteng,2023-04-17T08:08:48.947Z,4f4c7457-cb25-44ba-b53e-c0ae6bf0b556,LENK,Luxembourg,lu,770068806493623,déi Lénk Péiteng,Facebook
 dd6ee2f4-2791-4ec7-9661-c6b243b2b972,déi gréng Bartreng,2023-06-06T06:52:52.749Z,ebb45b28-a8f9-40a1-a5c4-317021ee4f80,GRENG,Luxembourg,lu,455620954600846,déi gréng Bartreng,Facebook
-3bdb3729-5c9c-498d-a80c-15c655bb092e,Roy Holzem,2023-07-23T05:07:53.788Z,8078f448-45a8-4665-a014-78b9f485ddc2,OTHER,Luxembourg,lu,106775815750309,Roy Holzem,Facebook
 290269ca-68e9-472a-9605-e9a030838d2a,déi gréng Diddeleng,2023-06-10T06:52:49.349Z,064c3398-6eba-4a0b-b908-fcdd55b7fd09,GRENG,Luxembourg,lu,158603537535287,déi gréng Diddeleng,Facebook
-33c1811b-0107-4ac3-8daa-3076c12a66d8,Marco Onorato,2023-02-27T10:53:31.055Z,59a634d6-03c6-4db3-91a6-d9eab3ace51e,LSAP,Luxembourg,lu,100979311842280,Marco Onorato,Facebook
+5f938953-a43e-473d-a199-d8212b78799d,Tom Weidig,2023-03-08T19:22:18.451Z,84b0c7b6-2af1-444e-a0de-6956b73d3be8,ADR,Luxembourg,lu,288782231902373,Tom Weidig,Facebook
 fbf4cea0-9a66-4f94-a682-a9faacefb03e,déi gréng Osten,2023-08-29T05:06:42.788Z,935a698c-f701-433c-b80f-ef217e6970c5,GRENG,Luxembourg,lu,1304642999595469,déi gréng Osten,Facebook
 513441af-621c-43b9-b505-62c0f89151a4,Demokratesch Partei Déifferdeng,2023-06-07T06:52:45.909Z,40ab39b3-1761-4079-9e92-74440b9b1d8e,DP,Luxembourg,lu,388936831308285,Demokratesch Partei Déifferdeng,Facebook
-e7d9c253-ef0b-46e0-b5ec-3534e55073a4,Lamberty Claude,2023-02-28T10:53:37.087Z,3733c091-f87a-459f-b925-c4ef63bf077c,DP,Luxembourg,lu,182810615693,Lamberty Claude,Facebook
+3b5bb857-22e3-453d-b418-a3634b9f459a,Vesali Amir,2023-03-01T10:53:24.815Z,75149434-8fd7-4a57-95e2-f3b84b6d40d8,LSAP,Luxembourg,lu,462665857488803,Vesali Amir,Facebook
 dc1f90d8-cdd1-46b9-929f-e52ef1f108f8,Volt Luxembourg,2023-09-08T05:07:04.366Z,89044ab5-953b-4466-9c04-57f0966804e0,OTHER,Luxembourg,lu,766459183561998,Volt Luxembourg,Facebook
+33c1811b-0107-4ac3-8daa-3076c12a66d8,Marco Onorato,2023-02-27T10:53:31.055Z,59a634d6-03c6-4db3-91a6-d9eab3ace51e,LSAP,Luxembourg,lu,100979311842280,Marco Onorato,Facebook
+3bdb3729-5c9c-498d-a80c-15c655bb092e,Roy Holzem,2023-07-23T05:07:53.788Z,8078f448-45a8-4665-a014-78b9f485ddc2,OTHER,Luxembourg,lu,106775815750309,Roy Holzem,Facebook
+e7d9c253-ef0b-46e0-b5ec-3534e55073a4,Lamberty Claude,2023-02-28T10:53:37.087Z,3733c091-f87a-459f-b925-c4ef63bf077c,DP,Luxembourg,lu,182810615693,Lamberty Claude,Facebook
 0ba00e8a-91d6-4dd7-b793-76dbdd614e50,Mandy Arendt,2023-06-11T06:52:57.464Z,6cf318a9-0748-4087-9cb3-c57a2a4c11ce,PIR,Luxembourg,lu,101146372385594,Mandy Arendt,Facebook
 73fd3c79-8c7f-45b9-a63e-4bfc2e1f2ca1,KOCH Tina,2023-08-30T05:06:49.538Z,d9f7f0fb-fa8b-4b42-81a3-3202fa50eb1e,LSAP,Luxembourg,lu,221317001924239,KOCH Tina,Facebook
-dabce241-1875-49e6-affa-31a512d84e79,Christian Klein,2023-06-09T06:52:55.347Z,4ea54f92-9e00-4114-a84d-b08d8a5e999f,DP,Luxembourg,lu,1473588589609302,Christian Klein,Facebook
 5a3b59d8-ce08-4ae0-9611-54cde88a946f,KPL - d'Kommunisten,2023-03-08T18:18:00.780Z,dab68d36-657e-4cb2-9647-2f3b78327b52,OTHER,Luxembourg,lu,131505753713387,KPL - d'Kommunisten,Facebook
+dabce241-1875-49e6-affa-31a512d84e79,Christian Klein,2023-06-09T06:52:55.347Z,4ea54f92-9e00-4114-a84d-b08d8a5e999f,DP,Luxembourg,lu,1473588589609302,Christian Klein,Facebook
 84323b61-1872-42e7-99b1-c7f13c9e1777,Klensch Paul,2023-03-09T10:53:32.135Z,cc0c0d8e-ce14-494c-b438-f60fd8b170af,LSAP,Luxembourg,lu,128139983918863,Klensch Paul,Facebook
 925f8bc0-b190-4f12-aaa7-3dc2c016ed30,Chantal Gary,2023-09-12T05:06:26.356Z,2086ff3b-b508-4948-bbe0-1e8968c3af5b,GRENG,Luxembourg,lu,100247478088205,Chantal Gary,Facebook
 d0827259-566d-404f-b688-9378349b47a6,Eric Thill,2023-07-17T06:32:04.828Z,66c34f73-0c0a-44bb-8469-50ceca792a47,DP,Luxembourg,lu,109758250431811,Eric Thill,Facebook
@@ -171,37 +171,37 @@ ebfc28d7-116f-457c-8c5b-5aea094f7575,déi gréng Beetebuerg,2023-06-03T06:53:03.
 32086d37-8bfe-4991-8fe1-2ffd3b672a1c,déi gréng Cliärref,2023-06-03T06:53:03.616Z,ab99d8de-91e0-4516-ba09-c073fe172381,GRENG,Luxembourg,lu,360046891037109,déi gréng Cliärref,Facebook
 9db29548-e6ff-4b71-b5e0-9916d1a12264,déi gréng Monnerech,2023-06-06T06:52:52.748Z,f455380a-df43-4b0c-987d-a1f0b59aee99,GRENG,Luxembourg,lu,189349588218546,déi gréng Monnerech,Facebook
 58e9c770-a30f-4c7f-b0ee-9a60e63fc340,Sammy Wagner,2023-02-21T10:53:24.988Z,7ad84fde-d976-4084-bece-6f78b032e581,LSAP,Luxembourg,lu,547308335659530,Sammy Wagner,Facebook
-5ee9ca12-6c92-4af3-8c78-37c7d825e2ce,PADEM - Programmes d'Aide et de Développement pour les Enfants du Monde,2023-02-13T10:53:36.544Z,646441fd-4bd5-405f-9a88-dcd7d8f1b976,ZZZ,Luxembourg,lu,259115624227785,PADEM - Programmes d'Aide et de Développement pour les Enfants du Monde,Facebook
-bfc47274-a69b-421d-83cd-fb3a3a5cbd34,CSV Gemeng Beetebuerg,2023-05-07T06:52:40.864Z,327a84f9-cc6d-4985-88c1-c0ac2bdc904f,CSV,Luxembourg,lu,205202212845134,CSV Gemeng Beetebuerg,Facebook
 95981aeb-4eed-442c-93fe-32b581679c1e,One Planet Luxembourg,2023-07-05T06:07:15.182Z,ce14f6d9-58c5-46f3-a3ac-145c7cf99086,ZZZ,Luxembourg,lu,117323501256505,One Planet Luxembourg,Facebook
-11a46542-0c76-4608-b3b9-45b07dcdbaad,Luxembourg Aid & Development,2023-02-13T10:53:36.577Z,aa98720b-55ba-4166-bbfb-cfebb552850a,ZZZ,Luxembourg,lu,103881872295411,Luxembourg Aid & Development,Facebook
+bfc47274-a69b-421d-83cd-fb3a3a5cbd34,CSV Gemeng Beetebuerg,2023-05-07T06:52:40.864Z,327a84f9-cc6d-4985-88c1-c0ac2bdc904f,CSV,Luxembourg,lu,205202212845134,CSV Gemeng Beetebuerg,Facebook
+5ee9ca12-6c92-4af3-8c78-37c7d825e2ce,PADEM - Programmes d'Aide et de Développement pour les Enfants du Monde,2023-02-13T10:53:36.544Z,646441fd-4bd5-405f-9a88-dcd7d8f1b976,ZZZ,Luxembourg,lu,259115624227785,PADEM - Programmes d'Aide et de Développement pour les Enfants du Monde,Facebook
 7a58394d-9635-45ee-90ce-d2d4d7abf209,Amici di Ndugu Zangu ONLUS - Narrapu Community,2023-07-05T06:07:15.278Z,8f071617-dc36-4fb9-9239-27342507dc7a,ZZZ,Luxembourg,lu,1044660755566487,Amici di Ndugu Zangu ONLUS - Narrapu Community,Facebook
-12695b79-6878-498b-b875-ec47b27cc1f1,BEE SECURE,2023-02-10T10:53:36.048Z,78c11897-69b5-4f84-9226-a9f0249962d5,ZZZ,Luxembourg,lu,120643517979566,BEE SECURE,Facebook
-2cd852ed-639e-4b2f-a38b-fc2bc8b238c6,klyme,2023-02-11T10:53:13.746Z,b300ccc7-1f1d-499b-ac36-1e5ca36b5dce,ZZZ,Luxembourg,lu,112235777007810,klyme,Facebook
 531526e9-ea9d-40b8-8563-a997a6c7e4bd,Rainbow Center,2023-04-23T06:52:49.825Z,bf7e26bc-5cd6-4c4f-9c5a-189306995ff7,ZZZ,Luxembourg,lu,110649578530285,Rainbow Center,Facebook
-ef8f477d-eadf-40f5-baf2-25ec3d43e27b,OGBL Syndicat No 1 au Luxembourg,2023-02-14T10:53:29.633Z,851425a1-42ec-47ee-a2d9-090171726015,ZZZ,Luxembourg,lu,148130575276285,OGBL Syndicat No 1 au Luxembourg,Facebook
+11a46542-0c76-4608-b3b9-45b07dcdbaad,Luxembourg Aid & Development,2023-02-13T10:53:36.577Z,aa98720b-55ba-4166-bbfb-cfebb552850a,ZZZ,Luxembourg,lu,103881872295411,Luxembourg Aid & Development,Facebook
 61e4e2fd-4968-4796-8b4d-03bd22d477cd,Impact Luxembourg - Société d'Impact Sociétal,2023-07-10T06:51:13.174Z,233477f9-4d53-4296-b466-031ac1338984,ZZZ,Luxembourg,lu,101426056072873,Impact Luxembourg - Société d'Impact Sociétal,Facebook
+12695b79-6878-498b-b875-ec47b27cc1f1,BEE SECURE,2023-02-10T10:53:36.048Z,78c11897-69b5-4f84-9226-a9f0249962d5,ZZZ,Luxembourg,lu,120643517979566,BEE SECURE,Facebook
 41bac607-308c-4fea-95ad-d508873f9eaf,Mela3D,2023-05-05T06:52:48.072Z,efd40267-4648-4122-a0df-6c37dee8b658,ZZZ,Luxembourg,lu,501887860336443,Mela3D,Facebook
+2cd852ed-639e-4b2f-a38b-fc2bc8b238c6,klyme,2023-02-11T10:53:13.746Z,b300ccc7-1f1d-499b-ac36-1e5ca36b5dce,ZZZ,Luxembourg,lu,112235777007810,klyme,Facebook
+ef8f477d-eadf-40f5-baf2-25ec3d43e27b,OGBL Syndicat No 1 au Luxembourg,2023-02-14T10:53:29.633Z,851425a1-42ec-47ee-a2d9-090171726015,ZZZ,Luxembourg,lu,148130575276285,OGBL Syndicat No 1 au Luxembourg,Facebook
+13167d30-656c-4b7f-bca8-b315eaa58ab2,ISO SPAN Luxembourg,2023-02-14T10:53:29.663Z,9c1e2020-0b15-4c97-a514-c467f961d828,ZZZ,Luxembourg,lu,287258765176421,ISO SPAN Luxembourg,Facebook
 7b244370-bb96-48f9-8b8b-121e127ed1f6,"Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse",2023-07-07T13:16:18.773Z,1cac9f0e-23ce-413f-be58-a07868519bfa,ZZZ,Luxembourg,lu,336029906771300,"Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse",Facebook
 4a978be5-b218-4dcf-8daa-b629b4070833,Microlux - Microcredit & Coaching,2023-07-07T13:16:18.787Z,202b1ac0-9a22-4a60-9abc-c61d96f87a24,ZZZ,Luxembourg,lu,296808527394313,Microlux - Microcredit & Coaching,Facebook
-13167d30-656c-4b7f-bca8-b315eaa58ab2,ISO SPAN Luxembourg,2023-02-14T10:53:29.663Z,9c1e2020-0b15-4c97-a514-c467f961d828,ZZZ,Luxembourg,lu,287258765176421,ISO SPAN Luxembourg,Facebook
-ecd26d5c-f072-4a9c-8f2d-71736cb706f0,Sicona - Naturschutzsyndikat,2023-07-07T13:16:18.813Z,d8c7ea8a-5c15-48ef-bc2b-55fa146de064,ZZZ,Luxembourg,lu,466030810198917,Sicona - Naturschutzsyndikat,Facebook
 e5531814-727b-4550-a86f-ab0ec098a25a,Luxsuum,2023-07-17T06:32:04.828Z,f0b136aa-8765-4a49-ab0d-ecd41582b2bd,ZZZ,Luxembourg,lu,101461088617751,Luxsuum,Facebook
-3b381ee6-7550-4395-b498-4613ab416dca,Ministère des Sports Luxembourg,2023-07-09T06:08:18.211Z,02ecb358-8100-45a5-b36b-2ea6e490ca29,ZZZ,Luxembourg,lu,110612624120430,Ministère des Sports Luxembourg,Facebook
 97fe0437-e567-4886-ad53-94a777eb5e0b,neimënster,2023-07-17T06:32:04.816Z,38482d01-f66c-4bd5-9802-8822aa9990c8,ZZZ,Luxembourg,lu,118522731555177,neimënster,Facebook
-f8d4ecb2-401c-45e5-b570-d92f48d66884,Gemeng Mamer,2023-02-07T15:04:59.341Z,00f18881-8ca7-4758-8a0b-3e034cc20597,ZZZ,Luxembourg,lu,757812257889290,Gemeng Mamer,Facebook
+ecd26d5c-f072-4a9c-8f2d-71736cb706f0,Sicona - Naturschutzsyndikat,2023-07-07T13:16:18.813Z,d8c7ea8a-5c15-48ef-bc2b-55fa146de064,ZZZ,Luxembourg,lu,466030810198917,Sicona - Naturschutzsyndikat,Facebook
 6479ef78-d461-4fe1-b3d0-aec8adb09e30,Mouvement Ecologique,2023-02-19T10:53:42.405Z,a3a0fbad-3f2c-435c-a536-f982b19dd094,ZZZ,Luxembourg,lu,1527472604152597,Mouvement Ecologique,Facebook
-c80e2d3b-5e7d-4044-b81a-3dc42c04f8ac,Foodvisor,2023-02-07T15:04:59.415Z,86e23836-7993-41da-97a7-dbeebfc233de,ZZZ,Luxembourg,lu,1534982756793690,Foodvisor,Facebook
+3b381ee6-7550-4395-b498-4613ab416dca,Ministère des Sports Luxembourg,2023-07-09T06:08:18.211Z,02ecb358-8100-45a5-b36b-2ea6e490ca29,ZZZ,Luxembourg,lu,110612624120430,Ministère des Sports Luxembourg,Facebook
 2afa4f53-204c-4fdc-9620-18b2c5ee5963,Bauer Energie,2023-09-22T05:06:55.607Z,7be29c8f-315b-454c-a6bd-a329dc3582da,ZZZ,Luxembourg,lu,101434699165173,Bauer Energie,Facebook
-3e39c468-d2cd-4dbb-be7b-7a730a411754,Reporter,2023-02-07T15:04:59.316Z,3e1800ff-dff8-4cc2-afeb-a4f0d45450f8,ZZZ,Luxembourg,lu,1933096830349891,Reporter,Facebook
+f8d4ecb2-401c-45e5-b570-d92f48d66884,Gemeng Mamer,2023-02-07T15:04:59.341Z,00f18881-8ca7-4758-8a0b-3e034cc20597,ZZZ,Luxembourg,lu,757812257889290,Gemeng Mamer,Facebook
 b8a0c5c6-abaa-428a-afd0-97547f75aa97,Chambre des salariés Luxembourg,2023-09-15T05:06:45.305Z,135ca571-b3a7-46e7-97df-7f3c37e35956,ZZZ,Luxembourg,lu,1280068482020511,Chambre des salariés Luxembourg,Facebook
-7c53de31-3d89-4d72-8df2-69092af5d0a2,Lëtzebuerger Journal,2023-02-07T15:04:59.343Z,d9cc9f02-3c46-4927-bb7d-fefa79e37e54,ZZZ,Luxembourg,lu,127971680591205,Lëtzebuerger Journal,Facebook
+c80e2d3b-5e7d-4044-b81a-3dc42c04f8ac,Foodvisor,2023-02-07T15:04:59.415Z,86e23836-7993-41da-97a7-dbeebfc233de,ZZZ,Luxembourg,lu,1534982756793690,Foodvisor,Facebook
+3e39c468-d2cd-4dbb-be7b-7a730a411754,Reporter,2023-02-07T15:04:59.316Z,3e1800ff-dff8-4cc2-afeb-a4f0d45450f8,ZZZ,Luxembourg,lu,1933096830349891,Reporter,Facebook
 0f516d1f-6cba-40e3-a657-c01f5e2640b9,Ville de Dudelange,2023-07-21T05:07:55.627Z,2b64f011-7852-40c3-87e1-2bd4160adc01,ZZZ,Luxembourg,lu,612615252203041,Ville de Dudelange,Facebook
+7c53de31-3d89-4d72-8df2-69092af5d0a2,Lëtzebuerger Journal,2023-02-07T15:04:59.343Z,d9cc9f02-3c46-4927-bb7d-fefa79e37e54,ZZZ,Luxembourg,lu,127971680591205,Lëtzebuerger Journal,Facebook
 83c9b5a4-1d5a-4112-8951-835a6289bad3,Greenpeace Luxembourg,2023-02-07T15:04:59.226Z,7156c5c0-4dc4-493f-adde-19798cfb0fb8,ZZZ,Luxembourg,lu,67370457805,Greenpeace Luxembourg,Facebook
-1da07215-effc-4cca-a215-dddccf0b4596,Croix-Rouge luxembourgeoise,2023-02-07T15:04:59.255Z,15c5bea6-99af-4423-a965-6dbfa3ddb1a9,ZZZ,Luxembourg,lu,183130238375057,Croix-Rouge luxembourgeoise,Facebook
 4100401d-cd44-4464-8ad9-5034cd07aad2,IKEA,2023-08-21T05:07:38.572Z,7d3e9925-92a6-4c34-bcf8-ff40572f9542,ZZZ,Luxembourg,lu,112961202185776,IKEA,Facebook
-2b16fa6a-b4a2-4f7f-9594-2dad53e4da59,Mouvement Patrimonial,2023-02-07T15:04:59.319Z,bff96c2a-56cc-4aca-ae09-f49c47c68dfa,ZZZ,Luxembourg,lu,2237071006551353,Mouvement Patrimonial,Facebook
+1da07215-effc-4cca-a215-dddccf0b4596,Croix-Rouge luxembourgeoise,2023-02-07T15:04:59.255Z,15c5bea6-99af-4423-a965-6dbfa3ddb1a9,ZZZ,Luxembourg,lu,183130238375057,Croix-Rouge luxembourgeoise,Facebook
 a3d6599b-1559-4f46-b316-10cac7bd3333,Amazing Stories,2023-07-25T05:07:41.524Z,043c0079-b9a8-421a-bb91-60b374071c63,ZZZ,Luxembourg,lu,103040629330161,Amazing Stories,Facebook
+2b16fa6a-b4a2-4f7f-9594-2dad53e4da59,Mouvement Patrimonial,2023-02-07T15:04:59.319Z,bff96c2a-56cc-4aca-ae09-f49c47c68dfa,ZZZ,Luxembourg,lu,2237071006551353,Mouvement Patrimonial,Facebook
 1751c26c-30ff-4ab6-8874-1af7f60b9082,Gembloux Agro-Bio Tech,2023-02-08T05:54:33.656Z,751cf27d-1fb3-47f6-af7d-858fb5d1380a,ZZZ,Luxembourg,lu,127843763923158,Gembloux Agro-Bio Tech,Facebook
 373b3214-b1ef-4894-9ad0-2c1844d1e445,One People -ASBL,2023-09-23T05:06:58.040Z,f50ad45f-ce61-4b64-bdcf-9bc94112ef6f,ZZZ,Luxembourg,lu,114845591230226,One People -ASBL,Facebook
 97badb01-15c5-427a-9011-2752899f40d0,jesuisunefemmeetjexiste,2023-02-08T05:54:33.674Z,5aeab272-f014-4135-ade8-b878174bc3c5,ZZZ,Luxembourg,lu,110753435262296,jesuisunefemmeetjexiste,Facebook
@@ -210,95 +210,96 @@ f59a95af-c15a-4c32-af06-26ba6f3bfe2d,Regards protestants,2023-02-08T05:54:33.700
 89e210d5-e128-4afc-b827-310fab153b1d,Zrejme,2023-09-04T05:06:49.302Z,b3ecbf25-bd37-4656-9484-33ad234a7f7c,ZZZ,Luxembourg,lu,1912857195642502,Zrejme,Facebook
 f3ee3f01-3a4f-409e-9dd0-d7e010150442,RTL 5minutes,2023-02-21T10:53:24.988Z,031fc94a-5fc2-485a-89b3-31b5cfcda405,ZZZ,Luxembourg,lu,981942431849799,RTL 5minutes,Facebook
 cda3b178-ad43-4903-b7e9-f66d97d9655f,Les après-midis Chouchou,2023-07-13T12:37:38.681Z,472f34e9-8413-4ad7-8ed1-955963183bf7,ZZZ,Luxembourg,lu,118075037892881,Les après-midis Chouchou,Facebook
-cdf8699d-3fd8-479a-a3a2-587bfb27e04e,CARE Luxembourg,2023-02-12T10:53:19.363Z,1952c08e-70e5-4d76-9635-df501db44f2d,ZZZ,Luxembourg,lu,450522351807266,CARE Luxembourg,Facebook
 0ba7f306-32cb-42ad-9923-ef0a3e9d296c,Daniela-Lacramioara Clara Moraru,2023-02-24T10:53:31.935Z,9c3369a4-c260-4599-a8cc-b14c4d54d929,ZZZ,Luxembourg,lu,642046089335249,Daniela-Lacramioara Clara Moraru,Facebook
+cdf8699d-3fd8-479a-a3a2-587bfb27e04e,CARE Luxembourg,2023-02-12T10:53:19.363Z,1952c08e-70e5-4d76-9635-df501db44f2d,ZZZ,Luxembourg,lu,450522351807266,CARE Luxembourg,Facebook
 ce1cd635-5a2c-4913-b1d2-4546f00e2ec4,fabricio.costa__,2023-04-26T06:53:26.250Z,b8bee389-66bc-4b99-8da9-7badfde93098,ZZZ,Luxembourg,lu,112025728246024,fabricio.costa__,Facebook
 2c863cba-4a69-4820-9055-93b6f38d8920,"Ministère de l'Environnement, du Climat et du Développement durable",2023-04-30T06:52:50.371Z,ac1bee5f-ff3c-443d-afa0-70ebd3c2eb39,ZZZ,Luxembourg,lu,111157800548192,"Ministère de l'Environnement, du Climat et du Développement durable",Facebook
 7973773a-b073-4138-9261-ff5d50a7c929,JIF Luxembourg,2023-02-24T10:53:31.937Z,d5be1ebe-43a8-49ee-8e67-4c6595a21768,ZZZ,Luxembourg,lu,1854265664810530,JIF Luxembourg,Facebook
 e00e4548-ea30-4336-aee2-19489d5ebd92,SOS Faim Luxembourg,2023-05-01T06:52:58.984Z,0b1342fa-a2ed-479b-8202-32b89cc2a96a,ZZZ,Luxembourg,lu,1462490894032196,SOS Faim Luxembourg,Facebook
 38069a4a-f695-4838-96c3-703644ab0a61,CET (Centre pour l'égalité de traitement),2023-02-25T10:53:33.434Z,c25a1311-d428-4b41-9474-180b026f4a50,ZZZ,Luxembourg,lu,140604182686703,CET (Centre pour l'égalité de traitement),Facebook
 9a2c2d21-210a-40ac-abd9-d86c7b27abbe,"Kinneksbond, Centre Culturel Mamer",2023-05-01T06:52:58.984Z,10b5f69e-3e01-415c-9d3a-3719b775fcda,ZZZ,Luxembourg,lu,109263602467943,"Kinneksbond, Centre Culturel Mamer",Facebook
-ae012cfb-8d3a-40f9-91d3-8ff02490ff3b,Atelier del gusto,2023-05-02T06:53:12.643Z,68fb5dfa-969e-4c69-86bc-0d6e164fbf87,ZZZ,Luxembourg,lu,103158547962016,Atelier del gusto,Facebook
-f46a75f0-9a58-4841-b66e-2911aa20ba75,UNICEF Luxembourg,2023-05-04T06:52:52.974Z,d30d290b-6fbc-49bb-9d1d-c81435f5a6cc,ZZZ,Luxembourg,lu,114894900188,UNICEF Luxembourg,Facebook
 5133a4cd-f923-4f01-a29b-d7f115d28aef,LUkraine asbl,2023-02-25T10:53:33.434Z,2eb03f34-56c4-40d3-8534-bdd7b7de53bb,ZZZ,Luxembourg,lu,765672493454207,LUkraine asbl,Facebook
-35b94924-50e0-4d08-942d-93b6c5d2b94c,"Un e artiste, Un e condamné e",2023-05-04T06:52:52.973Z,25aed353-1ef3-4230-8e1f-5981ddeff46d,ZZZ,Luxembourg,lu,107268865578038,"Un e artiste, Un e condamné e",Facebook
+ae012cfb-8d3a-40f9-91d3-8ff02490ff3b,Atelier del gusto,2023-05-02T06:53:12.643Z,68fb5dfa-969e-4c69-86bc-0d6e164fbf87,ZZZ,Luxembourg,lu,103158547962016,Atelier del gusto,Facebook
 74b438fe-9771-424a-897d-4a5bf3211f1e,BIL myLIFE,2023-02-27T10:53:30.998Z,fcb4275d-ad4b-44ff-82a5-316b1e2887fe,ZZZ,Luxembourg,lu,110186718542356,BIL myLIFE,Facebook
+f46a75f0-9a58-4841-b66e-2911aa20ba75,UNICEF Luxembourg,2023-05-04T06:52:52.974Z,d30d290b-6fbc-49bb-9d1d-c81435f5a6cc,ZZZ,Luxembourg,lu,114894900188,UNICEF Luxembourg,Facebook
 6967b069-9fd7-4c1d-9e9b-dd9824947584,CinEast Festival,2023-03-01T10:53:24.823Z,9b416b50-644c-4b9b-ba65-f1300ce5e92a,ZZZ,Luxembourg,lu,165616986782604,CinEast Festival,Facebook
+35b94924-50e0-4d08-942d-93b6c5d2b94c,"Un e artiste, Un e condamné e",2023-05-04T06:52:52.973Z,25aed353-1ef3-4230-8e1f-5981ddeff46d,ZZZ,Luxembourg,lu,107268865578038,"Un e artiste, Un e condamné e",Facebook
 dac7ac8c-4d58-4781-8b48-e2dabd3f71c0,Handicap International Luxembourg,2023-05-05T06:52:47.941Z,08ee3409-ba1f-4837-a897-0c4cfa13f8c8,ZZZ,Luxembourg,lu,109079118064133,Handicap International Luxembourg,Facebook
-ef65c728-bdfc-4623-9693-73e37184418f,leroys_journey1,2023-05-06T06:53:09.559Z,267d9383-14c5-4ebd-9188-06c2c596a897,ZZZ,Luxembourg,lu,105063195792841,leroys_journey1,Facebook
 e652da4e-f714-432c-ae78-7a5d7d6396b7,Centre d'Incendie et de Secours Hobscheid,2023-03-04T10:53:36.029Z,81cbbb07-3f87-4dcb-b368-9f311d3d960f,ZZZ,Luxembourg,lu,63950766488,Centre d'Incendie et de Secours Hobscheid,Facebook
+ef65c728-bdfc-4623-9693-73e37184418f,leroys_journey1,2023-05-06T06:53:09.559Z,267d9383-14c5-4ebd-9188-06c2c596a897,ZZZ,Luxembourg,lu,105063195792841,leroys_journey1,Facebook
 84a0872d-64f2-44ba-92aa-c26af6f8af81,Ciné-Club Hellénique de Luxembourg,2023-11-23T05:07:20.743Z,8f0d0879-d674-4236-8f55-12cf060c1022,ZZZ,Luxembourg,lu,332222023548707,Ciné-Club Hellénique de Luxembourg,Facebook
 69f431a6-8c18-46b4-86ef-c93ae473187a,es.smartenergy,2023-03-05T10:53:38.176Z,b08de49a-d50a-4c2e-89c0-a9d79e38dd00,ZZZ,Luxembourg,lu,100866206279100,es.smartenergy,Facebook
 4cc9a7ba-5a6b-42fe-b1f0-8fc67d614460,Homepac Luxembourg,2023-10-27T05:07:07.852Z,6d5a93bf-5f27-490f-a6de-dfc6ec61eb8e,ZZZ,Luxembourg,lu,114120621561652,Homepac Luxembourg,Facebook
-d3138115-2ca3-4c7a-8bdb-f76e62d276ae,Fiat,2023-03-05T10:53:38.175Z,5101a988-5d83-476d-968b-fed0f8aa93e5,ZZZ,Luxembourg,lu,345693870642,Fiat,Facebook
 dffb228a-d953-48b2-95f2-b02c3d11976c,ns_dok,2023-11-15T05:06:56.093Z,31efc045-6e27-4362-9d9c-edd98cbe02d5,ZZZ,Luxembourg,lu,104103122438171,ns_dok,Facebook
-9db154d8-4c61-4a09-930d-82aad2d60109,Mieterschutz LU / Défense des locataires LU,2023-08-02T05:07:36.624Z,33ecb71e-2ff3-4663-87b4-5194681dced1,ZZZ,Luxembourg,lu,105699367875819,Mieterschutz LU / Défense des locataires LU,Facebook
+d3138115-2ca3-4c7a-8bdb-f76e62d276ae,Fiat,2023-03-05T10:53:38.175Z,5101a988-5d83-476d-968b-fed0f8aa93e5,ZZZ,Luxembourg,lu,345693870642,Fiat,Facebook
 2a54d9de-ad38-42c1-9dcc-cb4d0c14c84f,FOKUS Déifferdeng,2023-04-26T06:53:26.241Z,34185b19-5b5a-4386-9e36-aef3fab6e4dd,ZZZ,Luxembourg,lu,105555785849439,FOKUS Déifferdeng,Facebook
-7b8ad1da-5ef7-4a68-b7f9-0fc61650cfaf,goergen_marc,2023-03-08T10:53:25.414Z,980052e4-d2f3-4ef1-bc3f-b004cc8b30d5,ZZZ,Luxembourg,lu,104243389120671,goergen_marc,Facebook
+9db154d8-4c61-4a09-930d-82aad2d60109,Mieterschutz LU / Défense des locataires LU,2023-08-02T05:07:36.624Z,33ecb71e-2ff3-4663-87b4-5194681dced1,ZZZ,Luxembourg,lu,105699367875819,Mieterschutz LU / Défense des locataires LU,Facebook
 bb8bf102-e53b-43f0-a7d1-3dac9c9c6fa2,Feldgrau Luxembourg,2023-11-09T05:06:46.405Z,3416464f-1ad6-4635-bfd2-a4f0c9068166,ZZZ,Luxembourg,lu,1591193800963723,Feldgrau Luxembourg,Facebook
 17e29e2d-3f10-4df0-89a5-ca8855176ba1,Forum pour l'emploi asbl,2023-11-09T05:06:46.403Z,751b6234-9a4b-4b69-b733-eb0f6bf8056a,ZZZ,Luxembourg,lu,315120211953707,Forum pour l'emploi asbl,Facebook
-ed98ff67-c841-48a9-b6ec-5d7f03c834e6,Bike World lux,2023-03-08T10:53:25.417Z,990f96e2-acb5-47c5-a87f-58be3ab440fe,ZZZ,Luxembourg,lu,423814944343117,Bike World lux,Facebook
+7b8ad1da-5ef7-4a68-b7f9-0fc61650cfaf,goergen_marc,2023-03-08T10:53:25.414Z,980052e4-d2f3-4ef1-bc3f-b004cc8b30d5,ZZZ,Luxembourg,lu,104243389120671,goergen_marc,Facebook
 4303a49f-6b29-4910-bc18-a9fb934b308c,Gender Equality - Dudelange,2023-11-09T05:06:46.405Z,eb2c00e5-d981-4fb1-858d-7e1934408fb5,ZZZ,Luxembourg,lu,344428941259,Gender Equality - Dudelange,Facebook
-a141ded5-bae0-4890-afe0-fc9b3f3177c1,Fitzeg,2023-03-08T14:43:03.584Z,8dcc5806-c253-48ea-8906-ac33866a15fd,ZZZ,Luxembourg,lu,100208449633031,Fitzeg,Facebook
 42f90210-8af7-42bc-a069-c5c4c75a9aae,shqip_nlux_show,2023-11-10T06:23:38.577Z,8271a26f-6a91-4040-a79f-cd5e9b3a1c8d,ZZZ,Luxembourg,lu,114724681525905,shqip_nlux_show,Facebook
+ed98ff67-c841-48a9-b6ec-5d7f03c834e6,Bike World lux,2023-03-08T10:53:25.417Z,990f96e2-acb5-47c5-a87f-58be3ab440fe,ZZZ,Luxembourg,lu,423814944343117,Bike World lux,Facebook
 8a0800dc-9886-47bc-a4bd-778f6db59a8c,Garage Auto-Rallye Da Silva,2023-12-08T06:08:37.034Z,039bc1c3-ac33-4fd0-97e7-a1c07b2a17e3,ZZZ,Luxembourg,lu,101036968113743,Garage Auto-Rallye Da Silva,Facebook
-aa6302b2-815f-4acf-9af2-c2913034a89c,"Ministère de l'Agriculture, de la Viticulture et du Développement rural",2023-03-08T14:43:03.594Z,be76dbed-a054-497d-9c71-929522a51571,ZZZ,Luxembourg,lu,234678520217447,"Ministère de l'Agriculture, de la Viticulture et du Développement rural",Facebook
+a141ded5-bae0-4890-afe0-fc9b3f3177c1,Fitzeg,2023-03-08T14:43:03.584Z,8dcc5806-c253-48ea-8906-ac33866a15fd,ZZZ,Luxembourg,lu,100208449633031,Fitzeg,Facebook
 2227b8f3-d42c-4239-a7c0-d80fa653ea18,SIAS,2023-05-09T06:53:04.740Z,cd78baac-bafd-4b83-9981-ecbcb3a28d33,ZZZ,Luxembourg,lu,296999503782778,SIAS,Facebook
-ded8493e-7d50-4476-b03c-4642d3da2707,Ministère de l'Intérieur Luxembourg,2023-03-08T15:32:02.968Z,eb95a163-3e2d-42e7-b50e-58b207e0a7c2,ZZZ,Luxembourg,lu,2403585623242400,Ministère de l'Intérieur Luxembourg,Facebook
-2c20ee1f-e051-44bf-902f-e855b210719c,Lëtz Rise Up,2023-03-08T15:32:02.968Z,f34fc130-5312-47ae-ad10-96d3aaa65cad,ZZZ,Luxembourg,lu,102729744534687,Lëtz Rise Up,Facebook
 1d581aaf-2c92-40d7-b986-3151e5711d71,charelmuller,2023-05-09T06:53:04.727Z,903e1457-6c37-4d2e-b1ad-11a89e2dbae4,ZZZ,Luxembourg,lu,124277457255728,charelmuller,Facebook
-5d0881fe-ffe0-40e3-b83f-b688c3812e60,CGFP - Confédération Générale de la Fonction Publique,2023-09-27T05:07:16.281Z,dc580e99-cbde-46df-aee9-ecee3fe4655a,ZZZ,Luxembourg,lu,330385120505103,CGFP - Confédération Générale de la Fonction Publique,Facebook
-47a71897-3d47-46a1-bf4d-dd6d42bc5aee,Improof,2023-03-08T17:45:56.753Z,814a93cc-3c2c-4ba5-9cae-e25c7c47da2e,ZZZ,Luxembourg,lu,105314122439018,Improof,Facebook
+aa6302b2-815f-4acf-9af2-c2913034a89c,"Ministère de l'Agriculture, de la Viticulture et du Développement rural",2023-03-08T14:43:03.594Z,be76dbed-a054-497d-9c71-929522a51571,ZZZ,Luxembourg,lu,234678520217447,"Ministère de l'Agriculture, de la Viticulture et du Développement rural",Facebook
 26f5653f-e68f-493c-8e62-5bd57ab1ba52,Commission luxembourgeoise pour l’Unesco,2023-11-20T05:07:13.459Z,4eec92d3-27d5-4d78-a68d-79fed4365331,ZZZ,Luxembourg,lu,1417527774942152,Commission luxembourgeoise pour l’Unesco,Facebook
-02b95e0f-e415-4023-9afa-5ebefe912f7f,moteurs.lu,2023-03-08T19:00:58.376Z,73838528-8235-4e40-9fa1-e4735e21b43b,ZZZ,Luxembourg,lu,105292189137596,moteurs.lu,Facebook
+ded8493e-7d50-4476-b03c-4642d3da2707,Ministère de l'Intérieur Luxembourg,2023-03-08T15:32:02.968Z,eb95a163-3e2d-42e7-b50e-58b207e0a7c2,ZZZ,Luxembourg,lu,2403585623242400,Ministère de l'Intérieur Luxembourg,Facebook
 365b2378-0378-46a7-a5a2-cd28c1dbdac4,my_single_lise,2023-12-02T17:14:06.883Z,3a43bafa-9a5d-4793-8e95-0ae408126ac7,ZZZ,Luxembourg,lu,124544910571353,my_single_lise,Facebook
+2c20ee1f-e051-44bf-902f-e855b210719c,Lëtz Rise Up,2023-03-08T15:32:02.968Z,f34fc130-5312-47ae-ad10-96d3aaa65cad,ZZZ,Luxembourg,lu,102729744534687,Lëtz Rise Up,Facebook
 69225006-71ca-48db-a31d-032ea56d88db,Administration Communale de Walferdange,2023-11-06T05:06:46.363Z,35c7a3b0-2801-42f6-84fb-7261b924c54f,ZZZ,Luxembourg,lu,182659695120163,Administration Communale de Walferdange,Facebook
-1bf6295d-8a03-4137-989a-381572aec444,Pädagogium Baden-Baden,2023-03-08T19:22:18.454Z,79e359fa-67ea-46b2-854e-34d6e028f928,ZZZ,Luxembourg,lu,126730540704474,Pädagogium Baden-Baden,Facebook
+5d0881fe-ffe0-40e3-b83f-b688c3812e60,CGFP - Confédération Générale de la Fonction Publique,2023-09-27T05:07:16.281Z,dc580e99-cbde-46df-aee9-ecee3fe4655a,ZZZ,Luxembourg,lu,330385120505103,CGFP - Confédération Générale de la Fonction Publique,Facebook
 a63e183d-50d3-4bc2-8239-a1cf64b9d3aa,selfhome.lu,2023-11-21T06:26:55.898Z,332d410d-4ded-420b-b3a3-c9d00673cc7c,ZZZ,Luxembourg,lu,107427748091197,selfhome.lu,Facebook
-abc49326-57e2-4816-aa26-6d8a60bd5722,Médecins Sans Frontières - Luxembourg,2023-03-08T19:54:16.969Z,19bdffcd-796d-4372-a5dd-e95942e3cb8d,ZZZ,Luxembourg,lu,128091485223,Médecins Sans Frontières - Luxembourg,Facebook
+47a71897-3d47-46a1-bf4d-dd6d42bc5aee,Improof,2023-03-08T17:45:56.753Z,814a93cc-3c2c-4ba5-9cae-e25c7c47da2e,ZZZ,Luxembourg,lu,105314122439018,Improof,Facebook
 225d9d5b-888c-46fa-b918-0189e720b9d9,ALEBA - Un syndicat pour tous,2023-05-12T06:52:58.781Z,8c6c600c-2122-4374-b8f4-81aa5fa0c146,ZZZ,Luxembourg,lu,490819804318919,ALEBA - Un syndicat pour tous,Facebook
-a927b32f-7297-4c42-a167-63b17d5ba6a8,Ville de Luxembourg,2023-03-08T19:54:16.959Z,a8dd659c-d2d1-4a43-9927-a7bff47ce6df,ZZZ,Luxembourg,lu,155999769624,Ville de Luxembourg,Facebook
+02b95e0f-e415-4023-9afa-5ebefe912f7f,moteurs.lu,2023-03-08T19:00:58.376Z,73838528-8235-4e40-9fa1-e4735e21b43b,ZZZ,Luxembourg,lu,105292189137596,moteurs.lu,Facebook
 af0c336b-21da-4a79-970f-a6afc4a0c4eb,Mois du Respect - Dudelange,2023-05-16T06:53:12.972Z,c01cc99f-ed77-4027-ae4c-8602f4f4098c,ZZZ,Luxembourg,lu,111664051852416,Mois du Respect - Dudelange,Facebook
 2ba92ec4-0829-47d1-ad00-6e31f394772b,Revue - De Magazin fir Lëtzebuerg,2023-05-15T06:53:25.693Z,4fe2c91e-fb55-4a5d-89a4-7bec947b70ea,ZZZ,Luxembourg,lu,111769982222609,Revue - De Magazin fir Lëtzebuerg,Facebook
-7f6dffc9-3e7e-418e-8283-23afc23d5efd,Guichet.lu,2023-03-11T10:53:30.240Z,51121d1f-fffa-40b4-8e1a-1f995cfa5bda,ZZZ,Luxembourg,lu,172208683516,Guichet.lu,Facebook
+1bf6295d-8a03-4137-989a-381572aec444,Pädagogium Baden-Baden,2023-03-08T19:22:18.454Z,79e359fa-67ea-46b2-854e-34d6e028f928,ZZZ,Luxembourg,lu,126730540704474,Pädagogium Baden-Baden,Facebook
 2c026974-d628-454b-aa3c-63e582c245f8,Agence AXA - Varandas & Associés,2023-05-21T06:53:07.293Z,d647c470-9331-4a67-b254-28c65728a09e,ZZZ,Luxembourg,lu,234888043838216,Agence AXA - Varandas & Associés,Facebook
-ece87ddb-872a-49bc-8a60-d3928b8e871c,Klima-Agence,2023-03-11T10:53:30.508Z,5a88dfda-0da9-4730-9838-cbd29c35cd66,ZZZ,Luxembourg,lu,478925882144199,Klima-Agence,Facebook
+abc49326-57e2-4816-aa26-6d8a60bd5722,Médecins Sans Frontières - Luxembourg,2023-03-08T19:54:16.969Z,19bdffcd-796d-4372-a5dd-e95942e3cb8d,ZZZ,Luxembourg,lu,128091485223,Médecins Sans Frontières - Luxembourg,Facebook
 3a2fe723-495c-42d1-9a92-db594d1e6582,SG Kultur UG,2023-05-21T06:53:07.292Z,5edb9b05-ee5f-4cc6-8cfe-029bd5991207,ZZZ,Luxembourg,lu,1486713088213712,SG Kultur UG,Facebook
-4f4f2c78-fb78-4a24-84ff-8d4d2207cdf6,Patiente Vertriedung asbl,2023-03-12T10:53:24.665Z,331bb4a5-009c-429f-8f7b-932c00950c06,ZZZ,Luxembourg,lu,240987925947860,Patiente Vertriedung asbl,Facebook
+a927b32f-7297-4c42-a167-63b17d5ba6a8,Ville de Luxembourg,2023-03-08T19:54:16.959Z,a8dd659c-d2d1-4a43-9927-a7bff47ce6df,ZZZ,Luxembourg,lu,155999769624,Ville de Luxembourg,Facebook
 b75cdb5c-7760-495d-9699-7514890f5fe9,Worzy Basketball Camp,2023-05-24T06:53:16.930Z,d571c565-7e90-4aba-bc5b-3c84ee630a5b,ZZZ,Luxembourg,lu,111051651522997,Worzy Basketball Camp,Facebook
-04e7fc7d-73ee-4748-b6f8-c9e1e112c0ef,Arman Licina,2023-03-13T10:53:13.151Z,298a33c1-2a4a-40f8-bb28-6ad8c0dd4dd7,ZZZ,Luxembourg,lu,232982220143987,Arman Licina,Facebook
 a4b43718-1ed9-4533-8c8c-af1c1ba843e6,ING Luxembourg,2023-05-29T06:52:51.893Z,ac30f13e-1038-4bea-904b-22a0fbddfcbb,ZZZ,Luxembourg,lu,187411841461859,ING Luxembourg,Facebook
-b91ec6bf-10ab-4768-b892-70a06ccedfbe,Shavent,2023-12-02T17:14:06.872Z,77b3c1e9-be98-42cb-ab7b-024b7b1602b5,ZZZ,Luxembourg,lu,108443030791540,Shavent,Facebook
+7f6dffc9-3e7e-418e-8283-23afc23d5efd,Guichet.lu,2023-03-11T10:53:30.240Z,51121d1f-fffa-40b4-8e1a-1f995cfa5bda,ZZZ,Luxembourg,lu,172208683516,Guichet.lu,Facebook
 42ef13b1-c920-41c6-88c9-59a9d62f7d2d,Plaidons Responsable,2023-05-30T06:53:21.380Z,4c4642fe-c951-478c-86ac-132390110ea4,ZZZ,Luxembourg,lu,209594999054106,Plaidons Responsable,Facebook
-b2030beb-7a9f-4d47-9401-2807cd231dfd,Eran eraus an elo,2023-03-18T10:53:16.343Z,1cc51f82-3fdc-4d02-9ad9-9f348da811a9,ZZZ,Luxembourg,lu,101436361521222,Eran eraus an elo,Facebook
 47f28b6d-c5d3-4494-876b-39b171569fb1,Give Us A Voice Lëtzebuerg,2023-05-31T06:53:13.276Z,cf90c4bd-894d-460d-b197-4f075522c63f,ZZZ,Luxembourg,lu,1505184473073824,Give Us A Voice Lëtzebuerg,Facebook
-15d38706-4068-4611-aee5-9cbbbbaf568b,Get Ink.Ruxandra,2023-10-31T05:30:15.046Z,2463973d-c368-4845-9902-893d5b553ee4,ZZZ,Luxembourg,lu,105316092151160,Get Ink.Ruxandra,Facebook
+ece87ddb-872a-49bc-8a60-d3928b8e871c,Klima-Agence,2023-03-11T10:53:30.508Z,5a88dfda-0da9-4730-9838-cbd29c35cd66,ZZZ,Luxembourg,lu,478925882144199,Klima-Agence,Facebook
 3608087a-1dd6-4a9d-9310-863336160100,nathalieheintz_2312,2023-05-31T06:53:13.313Z,66ea051d-a2ad-4d38-838a-367cc86cebf7,ZZZ,Luxembourg,lu,109728022137824,nathalieheintz_2312,Facebook
-4ca7c7ee-1b56-460e-ae3b-7f0518330169,CID  Fraen an Gender,2023-03-20T10:53:13.470Z,27719a83-ee6a-42e0-b0cc-4cbf7dd763bf,ZZZ,Luxembourg,lu,352459566825,CID  Fraen an Gender,Facebook
+4f4f2c78-fb78-4a24-84ff-8d4d2207cdf6,Patiente Vertriedung asbl,2023-03-12T10:53:24.665Z,331bb4a5-009c-429f-8f7b-932c00950c06,ZZZ,Luxembourg,lu,240987925947860,Patiente Vertriedung asbl,Facebook
 9239c2bd-f4c0-45e8-a80a-7c0d4f89a997,Threeland Hotel,2023-06-03T06:53:03.619Z,31b0c9ff-5551-447d-af4b-44b101978a32,ZZZ,Luxembourg,lu,1593617554206315,Threeland Hotel,Facebook
-36624ff8-9615-496f-bb90-ad10582f4736,Statec,2023-11-15T05:06:56.060Z,cd482941-4e33-437c-83d6-9e16cfe92000,ZZZ,Luxembourg,lu,874045752750482,Statec,Facebook
+04e7fc7d-73ee-4748-b6f8-c9e1e112c0ef,Arman Licina,2023-03-13T10:53:13.151Z,298a33c1-2a4a-40f8-bb28-6ad8c0dd4dd7,ZZZ,Luxembourg,lu,232982220143987,Arman Licina,Facebook
 1299b352-f376-4579-adc4-5929eb980a41,Médecins du Monde Luxembourg,2023-06-02T06:53:23.189Z,a95c557a-5552-4bcf-8342-e6c7cd9b8b83,ZZZ,Luxembourg,lu,602299559907363,Médecins du Monde Luxembourg,Facebook
-abeafb38-d2e7-4bf8-b599-0ce65055e91f,LMT Innovations,2023-03-23T10:53:22.555Z,becd5075-1940-4c78-8f74-7af895874781,ZZZ,Luxembourg,lu,112758740470061,LMT Innovations,Facebook
+b91ec6bf-10ab-4768-b892-70a06ccedfbe,Shavent,2023-12-02T17:14:06.872Z,77b3c1e9-be98-42cb-ab7b-024b7b1602b5,ZZZ,Luxembourg,lu,108443030791540,Shavent,Facebook
+b2030beb-7a9f-4d47-9401-2807cd231dfd,Eran eraus an elo,2023-03-18T10:53:16.343Z,1cc51f82-3fdc-4d02-9ad9-9f348da811a9,ZZZ,Luxembourg,lu,101436361521222,Eran eraus an elo,Facebook
 d75c08f5-5de7-4c23-b252-eca79ce50c43,Europa-Union Luxemburg,2023-06-03T06:53:03.618Z,712798f7-6455-4bdc-9836-8790d76b1d44,ZZZ,Luxembourg,lu,387000121769174,Europa-Union Luxemburg,Facebook
+15d38706-4068-4611-aee5-9cbbbbaf568b,Get Ink.Ruxandra,2023-10-31T05:30:15.046Z,2463973d-c368-4845-9902-893d5b553ee4,ZZZ,Luxembourg,lu,105316092151160,Get Ink.Ruxandra,Facebook
 0ba16cfc-9011-4017-839a-d88fce5282cd,Lëtzebuerg Eraus aus der WHO - Stoppt d'Verhandlungen,2023-10-22T05:07:06.216Z,db5d2af3-ee5a-43cd-893f-9d231f2fd92e,ZZZ,Luxembourg,lu,109616992221416,Lëtzebuerg Eraus aus der WHO - Stoppt d'Verhandlungen,Facebook
-329b0a8e-ff5f-4250-8307-2637cffd5d40,Fred Keup - Chamber,2023-03-25T10:53:02.715Z,b09a575c-290a-4254-a68f-810eb7252dc7,ZZZ,Luxembourg,lu,101542401723089,Fred Keup - Chamber,Facebook
-6c5c2c0e-b727-4d11-8bba-936deaf49d5f,ESERO Luxembourg,2023-03-26T10:53:07.150Z,b98fcda8-aed4-4eb9-a20a-bc5d58c01560,ZZZ,Luxembourg,lu,274960760122235,ESERO Luxembourg,Facebook
+4ca7c7ee-1b56-460e-ae3b-7f0518330169,CID  Fraen an Gender,2023-03-20T10:53:13.470Z,27719a83-ee6a-42e0-b0cc-4cbf7dd763bf,ZZZ,Luxembourg,lu,352459566825,CID  Fraen an Gender,Facebook
 3cafeaac-245b-4124-88f4-c036b96ed6a0,WildSide Luxembourg,2023-06-06T06:52:52.781Z,05b461dc-068f-48c6-9cf2-69fed2cfd731,ZZZ,Luxembourg,lu,164312463699563,WildSide Luxembourg,Facebook
+36624ff8-9615-496f-bb90-ad10582f4736,Statec,2023-11-15T05:06:56.060Z,cd482941-4e33-437c-83d6-9e16cfe92000,ZZZ,Luxembourg,lu,874045752750482,Statec,Facebook
 26ab2e99-8d77-45bb-bf7f-f1a8d03f9284,Ministère de la Santé Luxembourg,2023-06-10T06:52:49.392Z,b4a1b44c-fe61-4f2d-9c35-88c7ea4845a1,ZZZ,Luxembourg,lu,240727092670506,Ministère de la Santé Luxembourg,Facebook
-2e2d0568-be80-409b-a5e7-314422f58932,Digital Inclusion asbl,2023-03-28T10:53:17.395Z,27ff5dea-93c1-4d37-b7d1-638928a28947,ZZZ,Luxembourg,lu,1140451095979337,Digital Inclusion asbl,Facebook
 d2558b97-d8f7-4b7e-be8c-6e6c848124c5,Ministère du Travail Luxembourg,2023-06-11T06:52:57.457Z,d32bd927-a519-4180-a9d2-5019f647d6c3,ZZZ,Luxembourg,lu,112307726963681,Ministère du Travail Luxembourg,Facebook
+abeafb38-d2e7-4bf8-b599-0ce65055e91f,LMT Innovations,2023-03-23T10:53:22.555Z,becd5075-1940-4c78-8f74-7af895874781,ZZZ,Luxembourg,lu,112758740470061,LMT Innovations,Facebook
 1e280a79-61b3-49da-931b-d136845650df,Airseas,2023-06-23T06:18:13.566Z,ba664159-5a56-4108-9f93-341507896425,ZZZ,Luxembourg,lu,103302788955674,Airseas,Facebook
+329b0a8e-ff5f-4250-8307-2637cffd5d40,Fred Keup - Chamber,2023-03-25T10:53:02.715Z,b09a575c-290a-4254-a68f-810eb7252dc7,ZZZ,Luxembourg,lu,101542401723089,Fred Keup - Chamber,Facebook
 1e405ba8-1568-4caa-8526-fdb51674c847,Action Solidarité Tiers Monde - ASTM,2023-06-26T05:08:14.594Z,fde3d708-99b6-4b14-9a4d-108071c90c5c,ZZZ,Luxembourg,lu,161567570579610,Action Solidarité Tiers Monde - ASTM,Facebook
-4721d8ea-b9f4-4dd0-b73b-aa8c1480b54d,Emil Antony - Spirit of Fire,2023-11-01T05:07:02.417Z,20910ce9-f9e5-42a0-93bb-5a3f92850a10,ZZZ,Luxembourg,lu,110614014998479,Emil Antony - Spirit of Fire,Facebook
 80bed681-5e3f-4ac7-9244-b62411051960,Umedo,2023-12-21T05:06:28.064Z,c74600df-3ee3-45cf-a21b-4b045c906845,ZZZ,Luxembourg,lu,107797341939398,Umedo,Facebook
-ac5568bf-baf7-4ad1-94de-74e18173e130,Superspeed Luxembourg,2023-04-02T10:53:25.596Z,6824ce45-43db-4f98-a3cb-6a68045b3a10,ZZZ,Luxembourg,lu,180998012446100,Superspeed Luxembourg,Facebook
+6c5c2c0e-b727-4d11-8bba-936deaf49d5f,ESERO Luxembourg,2023-03-26T10:53:07.150Z,b98fcda8-aed4-4eb9-a20a-bc5d58c01560,ZZZ,Luxembourg,lu,274960760122235,ESERO Luxembourg,Facebook
+2e2d0568-be80-409b-a5e7-314422f58932,Digital Inclusion asbl,2023-03-28T10:53:17.395Z,27ff5dea-93c1-4d37-b7d1-638928a28947,ZZZ,Luxembourg,lu,1140451095979337,Digital Inclusion asbl,Facebook
 3638d2ea-bfd0-479d-a2ef-9e36e4a83322,La Religion de Cristal et le Socialisme Libéral,2023-12-27T05:06:48.166Z,d19705f3-5961-469e-b5b7-a225f000ee76,ZZZ,Luxembourg,lu,111056477285531,La Religion de Cristal et le Socialisme Libéral,Facebook
-adba6af6-bc14-4ac1-819f-0386b3a4e4cc,Chambre de Commerce du Luxembourg,2023-04-04T10:53:28.284Z,7ffa42a6-fd5a-4544-ba37-7fa87de25d68,ZZZ,Luxembourg,lu,590613874760725,Chambre de Commerce du Luxembourg,Facebook
 813742a5-d8c8-43cc-9f25-fcf7d721e69e,Disco Vpn-0908-1,2024-01-01T05:06:27.898Z,3e106407-18aa-434e-be9b-1ba859869e2e,ZZZ,Luxembourg,lu,113649301838187,Disco Vpn-0908-1,Facebook
-77cafac0-136a-4d7b-b4b9-ab83f31f8a31,selbstbau-pv.de,2023-04-05T10:53:13.756Z,42274a23-d134-4796-950e-50efdf52ead2,ZZZ,Luxembourg,lu,108109938752622,selbstbau-pv.de,Facebook
+4721d8ea-b9f4-4dd0-b73b-aa8c1480b54d,Emil Antony - Spirit of Fire,2023-11-01T05:07:02.417Z,20910ce9-f9e5-42a0-93bb-5a3f92850a10,ZZZ,Luxembourg,lu,110614014998479,Emil Antony - Spirit of Fire,Facebook
 10940463-9440-4412-b1fc-3f00c03501c2,idealistatheart,2024-01-06T05:06:48.243Z,9d1ad2b9-4bac-4456-b890-2f7c2a5602d3,ZZZ,Luxembourg,lu,110178674191866,idealistatheart,Facebook
-f35f27cc-9163-410d-ba46-9e7421269608,Indian Motorcycle Luxembourg,2023-04-11T10:53:05.396Z,5bf99704-2a9b-44b9-9158-2d4675b64c47,ZZZ,Luxembourg,lu,105457317585455,Indian Motorcycle Luxembourg,Facebook
+ac5568bf-baf7-4ad1-94de-74e18173e130,Superspeed Luxembourg,2023-04-02T10:53:25.596Z,6824ce45-43db-4f98-a3cb-6a68045b3a10,ZZZ,Luxembourg,lu,180998012446100,Superspeed Luxembourg,Facebook
 34cf2d06-fe5f-411c-8120-ebeeeea9b5e5,dei_aner,2024-01-08T05:06:41.106Z,e42a3179-29db-46b5-b3ec-f64ce5b1c3e0,ZZZ,Luxembourg,lu,119287334441860,dei_aner,Facebook
+adba6af6-bc14-4ac1-819f-0386b3a4e4cc,Chambre de Commerce du Luxembourg,2023-04-04T10:53:28.284Z,7ffa42a6-fd5a-4544-ba37-7fa87de25d68,ZZZ,Luxembourg,lu,590613874760725,Chambre de Commerce du Luxembourg,Facebook
+db860846-b983-4c00-b868-5c2a7ac74918,"Maurice Muller - Politik, Wirtschaft a Gesellschaft",2023-04-16T15:05:31.577Z,823c2264-0f8f-4e92-8a73-3cd02cc5d7d5,DP,Luxembourg,lu,102259469505295,"Maurice Muller - Politik, Wirtschaft a Gesellschaft",Facebook
+77cafac0-136a-4d7b-b4b9-ab83f31f8a31,selbstbau-pv.de,2023-04-05T10:53:13.756Z,42274a23-d134-4796-950e-50efdf52ead2,ZZZ,Luxembourg,lu,108109938752622,selbstbau-pv.de,Facebook
+f35f27cc-9163-410d-ba46-9e7421269608,Indian Motorcycle Luxembourg,2023-04-11T10:53:05.396Z,5bf99704-2a9b-44b9-9158-2d4675b64c47,ZZZ,Luxembourg,lu,105457317585455,Indian Motorcycle Luxembourg,Facebook
 92979159-64b6-4c9a-bc86-d418376fa7af,Bettembourg,2023-03-08T14:43:03.595Z,dbc84f13-6496-4871-b63a-1a8181148132,ZZZ,Luxembourg,lu,272698382777026,Bettembourg,Facebook
 410c20d4-e37b-4091-afa0-58578f21b126,Amnesty International Luxembourg,2023-03-08T17:56:35.454Z,cb7d73d6-72f3-4de8-8b9f-36e8d290a71e,ZZZ,Luxembourg,lu,256099791072227,Amnesty International Luxembourg,Facebook
 751fafd6-c421-485d-82fe-7ca8ef33e6d4,Arval Luxembourg,2023-03-12T10:53:24.645Z,1a141b66-d591-4464-9438-241b0c22d2b9,ZZZ,Luxembourg,lu,636514829772389,Arval Luxembourg,Facebook
@@ -311,21 +312,20 @@ b8c413e7-8b11-4a58-852e-bbcf781600f4,Mudam Luxembourg,2023-04-21T06:53:24.715Z,b
 e5249853-d29f-4c8f-a537-6e55e4046376,Caritas Luxembourg,2023-04-23T06:52:49.811Z,a4834acb-d050-4548-9313-fe1256e47911,ZZZ,Luxembourg,lu,146562492043683,Caritas Luxembourg,Facebook
 ac21d9c1-eedc-42e9-8745-216fd43ec1b4,Kulturfabrik Esch-sur-Alzette,2023-04-24T06:53:16.389Z,4299c4d4-b690-45d4-8d27-a2df6f3083b9,ZZZ,Luxembourg,lu,115311915151322,Kulturfabrik Esch-sur-Alzette,Facebook
 a37272f8-fab0-410f-92c3-35bc348f3407,Marques Confort S.A.,2023-04-25T06:53:00.562Z,e8b3a322-526f-4624-9b44-c5b4ff0ffd25,ZZZ,Luxembourg,lu,216742681731504,Marques Confort S.A.,Facebook
-db860846-b983-4c00-b868-5c2a7ac74918,"Maurice Muller - Politik, Wirtschaft a Gesellschaft",2023-04-16T15:05:31.577Z,823c2264-0f8f-4e92-8a73-3cd02cc5d7d5,DP,Luxembourg,lu,102259469505295,"Maurice Muller - Politik, Wirtschaft a Gesellschaft",Facebook
 e00cbe53-4b27-4658-86b2-025ab77e4550,Claude Meisch,2023-06-11T06:52:57.481Z,4ad07123-2c44-4a87-ae2a-0f9034acb95e,DP,Luxembourg,lu,105771662243033,Claude Meisch,Facebook
 007295e6-d180-4c64-b593-8fb5d52ad5bc,Lydie Polfer,2023-08-12T05:07:39.212Z,3a6a0925-19ff-40b7-bf9f-9d8c448183f8,DP,Luxembourg,lu,117317168119552,Lydie Polfer,Facebook
 8a97d579-f33d-4083-9772-430dbccde84a,Riman Immobilien,2024-02-19T03:10:43.248Z,a704dfe4-2df2-43ff-a7c3-42fc23c05861,ZZZ,Luxembourg,lu,1472982703010011,Riman Immobilien,Facebook
 f526b474-5434-4d12-b015-b1bfb448f722,Enovos,2023-12-01T05:07:30.618Z,307bf1fa-a7bb-4e95-8e6a-c57153ea3250,ZZZ,Luxembourg,lu,127395324042089,Enovos,Facebook
 9b33dafc-0c96-4188-9f74-5cebeab4b07f,Andrea ADE Visibelli - Autore&Comico -,2024-01-18T05:06:34.919Z,ad3dd504-dc7e-49f0-aae4-e32d55efbb48,ZZZ,Luxembourg,lu,295763517746574,Andrea ADE Visibelli - Autore&Comico -,Facebook
-b451b775-aa5e-46df-aa73-8f4ea49c34ec,LCGB,2023-12-01T05:07:30.595Z,9d16cbc1-b149-4855-9a40-9dac1e1cd093,ZZZ,Luxembourg,lu,275080130713,LCGB,Facebook
 c5825cc9-73b2-4735-8f98-dad974a8acb5,Petition 2512: Elterengeld amplatz vun institutionellen Ariichtungen\n\n,2023-09-29T05:07:05.429Z,4cc433bb-b807-46da-afc2-826da3af52b4,ZZZ,Luxembourg,lu,106962782264598,Petition 2512: Elterengeld amplatz vun institutionellen Ariichtungen\n\n,Facebook
+b451b775-aa5e-46df-aa73-8f4ea49c34ec,LCGB,2023-12-01T05:07:30.595Z,9d16cbc1-b149-4855-9a40-9dac1e1cd093,ZZZ,Luxembourg,lu,275080130713,LCGB,Facebook
 acc9d9ac-afc9-4757-9eca-13c300cecc46,OGBL Secteur Financier,2024-01-14T05:06:23.860Z,90d7ec57-1fb9-4fe7-99b4-da91ba5352de,ZZZ,Luxembourg,lu,1451598544879675,OGBL Secteur Financier,Facebook
 00825ada-fa9c-4632-884c-6c77c237d9fe,Bourgmeisterin,2023-12-17T05:06:43.293Z,e6c1abb1-00ca-4016-b4c7-b233eabd6776,ZZZ,Luxembourg,lu,118167451294272,Bourgmeisterin,Facebook
-1ce22bf9-c84c-47cf-b8fc-93a50d87dcf7,Ombudsman fir Kanner a Jugendlecher - OKaJu,2024-01-15T05:06:58.169Z,7af8393e-7a54-4823-8edf-fe8adb567d85,ZZZ,Luxembourg,lu,321800087953223,Ombudsman fir Kanner a Jugendlecher - OKaJu,Facebook
 2d82568a-ff01-465a-addd-f0e6d06130f7,La voix des survivant-es Asbl Stëmm vun den Iwerliewenden,2023-12-20T05:06:42.452Z,3de4c7bb-3d93-44df-b09b-af6678ad9fc9,ZZZ,Luxembourg,lu,110872211622082,La voix des survivant-es Asbl Stëmm vun den Iwerliewenden,Facebook
+1ce22bf9-c84c-47cf-b8fc-93a50d87dcf7,Ombudsman fir Kanner a Jugendlecher - OKaJu,2024-01-15T05:06:58.169Z,7af8393e-7a54-4823-8edf-fe8adb567d85,ZZZ,Luxembourg,lu,321800087953223,Ombudsman fir Kanner a Jugendlecher - OKaJu,Facebook
 252a6d04-5ce1-4bbc-aca5-da5fb0c2fcb9,FGFC,2023-12-19T05:06:23.672Z,0f2d7617-504c-4139-85af-2a5354d3766e,ZZZ,Luxembourg,lu,610896778985277,FGFC,Facebook
 2728ece3-c89d-4889-a8dd-d0ae13e9a23f,"forum - für Politik, Gesellschaft und Kultur",2023-02-17T10:53:17.444Z,acf5fa75-6a25-4c5d-9c7a-73adb8c81911,ZZZ,Luxembourg,lu,424639920972207,"forum - für Politik, Gesellschaft und Kultur",Facebook
-08bbb5e8-0712-4d99-b166-31d802561fbc,CSI Lëtzebuerg,2023-09-18T05:06:53.692Z,d3e6475d-fe6a-4077-9a81-0b1af8bd71d4,ZZZ,Luxembourg,lu,413834365347126,CSI Lëtzebuerg,Facebook
 a7e5da10-4c0d-4475-8c17-087aad705e72,Isabel Wiseler-Lima,2024-01-16T05:06:44.109Z,6f0f21b9-f2b6-4e68-9fc9-d2ac35cac1a2,CSV,Luxembourg,lu,264476763757645,Isabel Wiseler-Lima,Facebook
+08bbb5e8-0712-4d99-b166-31d802561fbc,CSI Lëtzebuerg,2023-09-18T05:06:53.692Z,d3e6475d-fe6a-4077-9a81-0b1af8bd71d4,ZZZ,Luxembourg,lu,413834365347126,CSI Lëtzebuerg,Facebook
 0b5c5a9e-03f0-430d-be72-9117021638c5,Martine Kemp,2024-01-23T05:06:31.548Z,164f1d6f-bceb-4de3-9d0e-1823e15ce044,CSV,Luxembourg,lu,159333283925707,Martine Kemp,Facebook
 248709ae-0b9d-4268-8357-70da8ff70480,Alain Weins,2023-03-08T14:52:55.126Z,aadc7205-4a9b-4f2a-a05b-573e84f6ed11,DP,Luxembourg,lu,1584247274989811,Alain Weins,Facebook
